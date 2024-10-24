@@ -1,0 +1,45 @@
+1. Review claim status in BT (Billing Tool) and check EOB (Explanation of Benefits).
+
+2. Verify denial reason:
+   a. If "Service not payable per managed care contract," proceed to step 3.
+   b. If "Non-covered per patient policy," skip to step 7.
+
+3. Check billing modifiers:
+   a. Review CCX (CareCentrix) crosswalk for correct modifiers.
+   b. Verify if NU modifier is required for CPAP supplies.
+   c. Confirm if RR modifier is needed for rental equipment.
+
+4. Compare with previous paid claims for the same patient to ensure consistent modifier usage.
+
+5. If incorrect modifiers were used:
+   a. Prepare a corrected claim with the appropriate modifiers.
+   b. Submit the corrected claim electronically.
+   c. Note the timely filing limit (usually 60 days from DOS).
+
+6. If modifiers were correct or after submitting a corrected claim:
+   a. Call insurance (CareCentrix) to verify claim status.
+   b. If claim is still in process, allow normal processing time (usually 30-60 days).
+   c. If claim is finalized but payment not updated, allow 10 business days.
+
+7. Check patient's account status:
+   a. Review portal for client notes.
+   b. Call home plan to verify if the patient has an outstanding balance.
+
+8. If patient has an outstanding balance or suspension of services:
+   a. Task the client to contact the member about paying the outstanding balance.
+   b. Instruct to bill the patient as per client response or portal notes.
+
+9. If claim is still denied after all above steps:
+   a. Review authorization requirements in BDM (Benefit Design Manager).
+   b. If authorization is required and missing, obtain and submit with a new claim.
+   c. If authorization is not required or present, consider filing an appeal with necessary documentation.
+
+10. For all actions taken:
+    a. Document all steps, conversations, and decisions in the claim notes.
+    b. Set appropriate follow-up tasks or reminders for pending actions.
+
+11. If the claim remains unresolved after exhausting all options:
+    a. Escalate to a supervisor or specialized team for further review.
+    b. Consider writing off the claim if all avenues have been exhausted and documented.
+
+This flowchart covers the main scenarios encountered in the provided examples while keeping the process as simple as possible for new agents to follow.

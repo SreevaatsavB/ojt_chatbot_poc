@@ -1,0 +1,43 @@
+Claim denied as not covered by payer:
+
+1. Review claim status in BT (Billing Tool)
+   - Check if claim was submitted to the correct payer
+
+2. Verify patient's insurance coverage
+   - Check FL Medicaid portal for active MCO plan
+   - If different from billed insurance, proceed to step 3
+   - If same as billed insurance, proceed to step 4
+
+3. Update insurance information in BT
+   - Term incorrect insurance
+   - Add correct insurance as primary
+
+4. Check authorization requirements
+   - Verify in payer's portal or call payer
+   - If authorization required, check if valid auth exists
+   - If no valid auth, request authorization
+
+5. Verify claim details
+   - Check for correct HCPCS codes
+   - Ensure correct patient information (e.g., DOB)
+
+6. Resubmit claim to correct payer
+   - Include authorization if required
+   - Verify timely filing limit (usually 180 days from DOS)
+
+7. If claim denied again:
+   - Check if denial instructs to submit to another payer (e.g., Little Havana)
+   - If instructed to submit to non-contracted payer (e.g., Little Havana):
+     - Bill the patient as per SOP
+   - If not, proceed to step 8
+
+8. Appeal the denial
+   - Gather supporting documentation
+   - Submit appeal within the payer's specified timeframe
+
+9. If appeal denied:
+   - Consider billing the patient
+   - Ensure compliance with contractual and regulatory requirements
+
+10. Document all actions taken in BT
+    - Include dates, contact names, and reference numbers

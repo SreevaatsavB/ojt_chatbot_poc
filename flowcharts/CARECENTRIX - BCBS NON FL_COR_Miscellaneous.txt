@@ -1,0 +1,45 @@
+1. Check the claim status in BT (Billing Tool) or portal
+   - If claim is still in process, allow standard processing time (usually 45-60 days)
+   - If claim is denied, proceed to next step
+
+2. Review client notes and portal AR notes
+   - If notes indicate to write-off or transfer bill to patient, follow those instructions
+   - If no specific instructions, proceed to next step
+
+3. Verify if appeal/reconsideration has been sent
+   - If not sent, prepare and submit appeal/reconsideration
+   - If already sent, proceed to next step
+
+4. Call insurance (CareCentrix in most cases) to check appeal status
+   - If appeal is still open and processing, note the status and allow more time
+   - If appeal is closed, ask for specific reason and proceed to next step
+
+5. Check if additional documents are required
+   - If yes, gather necessary documents (e.g., RX, Notes, DT) and resubmit
+   - If no, proceed to next step
+
+6. Verify authorization status
+   - If authorization is suspended or missing, request new authorization
+   - If authorization is valid, proceed to next step
+
+7. Check if claim was rejected due to subscriber ID issues
+   - If yes, verify member information in Availity and resubmit claim
+   - If no, proceed to next step
+
+8. Determine if all appeal options have been exhausted
+   - If yes, adjust the claim as per SOP or client instructions
+   - If no, consider submitting another appeal
+
+9. If claim is still unresolved:
+   - Escalate to supervisor or client for further instructions
+   - Consider requesting client approval for write-off or adjustment
+
+10. Document all actions taken in the claim notes for future reference
+
+Remember to use appropriate software at each step:
+- BT (Billing Tool) for claim status and notes
+- CareCentrix portal for claim submission and status checks
+- Availity for member information verification
+- Zirmed/Waystar for claim resubmission when necessary
+
+Always allow appropriate processing time between actions and follow up regularly until the claim is resolved.
