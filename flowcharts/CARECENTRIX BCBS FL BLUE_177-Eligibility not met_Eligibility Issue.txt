@@ -1,0 +1,55 @@
+Claim denied due to eligibility issue:
+
+1. Review claim status in Billing Tool (BT) to confirm denial reason.
+
+2. Check eligibility in Availity:
+   a. If member is active for Date of Service (DOS), proceed to step 3.
+   b. If member is inactive for DOS, proceed to step 7.
+
+3. Verify member ID in Availity matches BT:
+   a. If member ID matches, proceed to step 4.
+   b. If member ID is different, update BT with correct ID and resubmit claim.
+
+4. Check for authorization in BT and CCX portal:
+   a. If valid authorization exists, proceed to step 5.
+   b. If no valid authorization, task client for new authorization.
+
+5. Submit appeal or reconsideration:
+   a. Prepare appeal with eligibility documentation from Availity.
+   b. Submit through CCX portal or as per payer guidelines.
+
+6. Monitor appeal status:
+   a. If approved, claim will be reprocessed.
+   b. If denied, proceed to step 7.
+
+7. For inactive member or final denial:
+   a. Check for other active policies in BT or Availity.
+   b. If no other active policy, proceed to step 8.
+
+8. Bill patient and initiate equipment pickup:
+   a. Update AR Line Status to "Bill patient" in BT.
+   b. Create pickup ticket in BT.
+   c. Term insurance in BT.
+
+9. For claims with incorrect member ID:
+   a. Update member ID in BT.
+   b. Resubmit claim as new or corrected based on timely filing limit (TFL).
+
+10. For claims with authorization under old member ID:
+    a. Task client for new authorization under current member ID.
+    b. Once received, update authorization in BT.
+    c. Resubmit claim with new authorization.
+
+11. If claim was paid and recouped:
+    a. Verify reason for recoupment in BT or CCX web.
+    b. Follow steps 2-10 based on recoupment reason.
+
+12. For deceased patients:
+    a. Verify deceased status through contact attempts.
+    b. If confirmed, close claim and initiate equipment retrieval if possible.
+
+13. Monitor timely filing limits (TFL) throughout the process:
+    a. If within TFL, resubmit as corrected claim.
+    b. If beyond TFL, submit as new claim and note in BT.
+
+14. Document all actions taken in BT for future reference.

@@ -1,0 +1,52 @@
+Claim denied with reason "Paid":
+
+1. Check claim status in BT (Billing Tool)
+   - If claim shows as submitted but no response, proceed to step 2
+   - If claim shows as paid, proceed to step 5
+
+2. Check claim status in CGS portal
+   - If claim shows as processed and paid, proceed to step 3
+   - If claim not found or shows different status, contact CGS for clarification
+
+3. Verify payment details in CGS portal
+   - Note allowed amount, paid amount, and payment date
+
+4. Check for EOB (Explanation of Benefits) in BT
+   - If EOB not received, allow time for processing (typically 30-45 days)
+   - If EOB received, proceed to step 5
+
+5. Review EOB details
+   - Verify payment amount matches CGS portal information
+   - Check for any discrepancies or partial payments
+
+6. If payment is correct and complete:
+   - Post payment in BT
+   - Close the claim
+
+7. If payment is incorrect or partial:
+   - Review denial reason on EOB
+   - If denial reason is clear, address specific issue (e.g., missing information, coding error)
+   - If denial reason is unclear, contact CGS for clarification
+
+8. For secondary insurance claims:
+   - Verify primary insurance processing in CGS portal
+   - Check for secondary EOB in BT
+   - If secondary EOB received, post payment and adjust claim balance as needed
+   - If secondary EOB not received, allow time for processing or follow up with secondary payer
+
+9. If denial is posted incorrectly:
+   - Review denial posting in Connect
+   - Correct the posting if necessary
+
+10. For newly submitted claims:
+    - Allow standard processing time (30-45 days for CGS)
+    - Set reminder to follow up if no response received within timeframe
+
+11. If payment correction is needed:
+    - Review payment details in BT
+    - Make necessary adjustments to claim balance
+    - Document reason for correction
+
+12. If claim is still unresolved:
+    - Escalate to supervisor or specialized team for further review
+    - Consider appealing the claim if appropriate

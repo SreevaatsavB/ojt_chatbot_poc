@@ -1,0 +1,53 @@
+1. Review claim status in Billing Tool (BT)
+   - Verify claim submission date and denial reason
+
+2. Check CareCentrix (CCX) portal
+   - Confirm denial reason
+   - Look for any additional information about the denial
+
+3. Verify if the member has an outstanding premium balance
+   - Check previous notes in BT
+   - Review client notes if available
+
+4. If member has outstanding premium:
+   a. Transfer balance to patient
+   b. Post transfer to patient in BT
+   c. Bill patient for the outstanding amount
+
+5. If member claims to have paid premium:
+   a. Call CareCentrix customer service
+   b. Verify premium payment status
+   c. If premium is confirmed paid:
+      - Submit a corrected claim
+      - Note: Ensure to submit as a corrected claim, not a new claim
+   d. If premium is still unpaid:
+      - Inform the member to pay the outstanding balance
+
+6. For repeated denials after resubmission:
+   a. Review client notes for any updates
+   b. If client indicates premium is paid:
+      - Resubmit all affected claims as corrected claims
+   c. If no update from client:
+      - Transfer balance to patient
+      - Bill patient as per Standard Operating Procedure (SOP)
+
+7. If denial persists after corrected claim submission:
+   a. Verify timely filing limit (TFL)
+   b. If within TFL:
+      - Resubmit claim
+   c. If beyond TFL:
+      - Submit claim with proof of timely filing
+
+8. For any unique situations or persistent denials:
+   a. Task the client for further instructions
+   b. Follow client's guidance on next steps
+
+9. Throughout the process:
+   - Document all actions taken in BT
+   - Update claim notes with call details, portal verifications, and client communications
+
+10. If all attempts to resolve fail:
+    - Transfer balance to patient
+    - Bill patient for the denied services
+
+This workflow provides a structured approach for new agents to handle "Service Not Payable per Managed Care Contract" denials, covering various scenarios while maintaining simplicity for easy reference.
