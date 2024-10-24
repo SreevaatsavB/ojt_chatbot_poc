@@ -141,7 +141,7 @@ else:
     denial_reasons = sorted(set(f['denial_reason'] for f in flowcharts 
                                 if f['payor_name'] == selected_payor 
                                 and f['denial_code'] == selected_denial_code))
-    selected_denial_reason = st.selectbox('Select Denial Reason', denial_reasons,
+    selected_denial_reason = st.selectbox('Select Reason', denial_reasons,
                                         on_change=on_payor_change,
                                         key='reason_select')
     st.session_state.current_selections['reason'] = selected_denial_reason
