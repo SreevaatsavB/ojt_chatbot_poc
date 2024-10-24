@@ -1,0 +1,45 @@
+Claim denied due to Payment Adjustment:
+
+1. Review the claim denial reason in the billing system.
+
+2. Verify payment posting:
+   a. Check if payment was posted correctly as per EOB.
+   b. If not, correct the payment posting.
+
+3. Verify fee schedule:
+   a. Ensure the claim was paid according to the correct fee schedule.
+   b. If discrepancies found, note them for further action.
+
+4. Check for specific denial reasons:
+   a. If "Balance Adjustments (PBA)":
+      - Proceed to step 5.
+   b. If "Claim paid to its allowed amount":
+      - Verify primary claim status in BT (Billing Tool).
+      - Obtain EOB information from secondary payer if applicable.
+      - Allow time for EOB if claim was paid by primary payer.
+   c. If "CO-96 patient was in SNF":
+      - Check CGS to verify patient's SNF status.
+      - Create new invoice on discharge date.
+      - Resubmit claim to payer.
+   d. If "CO-150 same or similar":
+      - Check BT for claim status and recoupment details.
+
+5. Perform balance adjustment:
+   a. Adjust Allowable manually in the billing system.
+   b. Document the adjustment reason and details.
+
+6. For recouped claims:
+   a. Adjust the claim as per SOP.
+   b. Document the reason for recoupment (e.g., equipment pickup, SNF stay).
+
+7. If claim requires resubmission:
+   a. Create a new invoice with correct information.
+   b. Submit the updated claim to the payer.
+
+8. Document all actions taken in the claim notes.
+
+9. If unable to resolve through above steps:
+   a. Escalate to supervisor or specialized team.
+   b. Consider appealing the denial if appropriate.
+
+10. Follow up on adjusted or resubmitted claims to ensure proper processing.
