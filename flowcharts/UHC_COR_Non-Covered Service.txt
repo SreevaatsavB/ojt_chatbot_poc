@@ -1,0 +1,55 @@
+Claim denied for Non-Covered Service:
+
+1. Review claim submission in BT (Billing Tool)
+   - Check initial denial reason
+
+2. Review claim reprocessing status in BT
+   - Verify if denial reason has changed
+
+3. Check correspondence documents in BT
+   - Look for any additional information or explanations
+
+4. Verify authorization in BT
+   - Check if prior authorization was obtained
+   - If no authorization, check if retro authorization is possible
+
+5. Contact insurance carrier (e.g., UHC)
+   - Confirm claim status and denial reason
+   - Request reprocessing if necessary
+
+6. Check provider network status
+   - If out-of-network, verify patient's out-of-network benefits
+
+7. If provider is in-network but processed as out-of-network:
+   - Request reprocessing with correct network status
+
+8. If provider is out-of-network and no authorization:
+   - Check if retro authorization is possible
+   - If not possible, proceed to step 11
+
+9. If claim is still denied after reprocessing:
+   - Review denial reason and any additional information
+
+10. Check patient's policy status and coverage dates
+    - Verify if policy was active on the date of service
+
+11. If no active coverage or claim correctly denied:
+    - Forward correspondence to client
+    - Transfer balance to patient per SOP
+
+12. If further action is needed:
+    - Prepare and submit an appeal with necessary documentation
+
+13. For equipment-related claims:
+    - Check previous DOS for related claims
+    - Verify equipment status (pickup, exchange, etc.)
+    - Ensure compliance with rental equipment guidelines
+
+14. If multiple equipment codes billed:
+    - Verify if codes can be billed together
+    - Seek client approval for equipment pickup if necessary
+
+15. Document all actions taken in the claim notes
+
+16. If claim remains unresolved:
+    - Escalate to supervisor or specialized team for further review

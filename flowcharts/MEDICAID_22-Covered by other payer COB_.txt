@@ -1,0 +1,23 @@
+1. Review recent claim activity in the billing system.
+2. If claim was recently worked on or submitted:
+   a. Wait for processing time (typically 30 days).
+   b. Set a follow-up date to check claim status.
+3. If claim has insufficient information:
+   a. Gather missing details from patient records or provider.
+   b. Update claim information in the billing system.
+   c. Resubmit the claim if necessary.
+4. If claim was adjusted by client as small balance:
+   a. Move claim to non-production status in the billing system.
+   b. Document the reason for non-production status.
+5. Check payment status in the billing system.
+6. If payments were recently posted:
+   a. Verify if the balance is zero.
+   b. If balance is zero, close the claim.
+   c. If balance remains, determine if further action is needed.
+7. If claim still has issues:
+   a. Identify the specific denial reason.
+   b. Research the denial in the payer's portal or documentation.
+   c. Take appropriate action based on the denial reason (e.g., correct coding, provide additional documentation, appeal).
+8. Document all actions taken in the claim notes within the billing system.
+9. Set a follow-up date to review the claim status if necessary.
+10. If unable to resolve the issue, escalate to a supervisor or specialized team for further assistance.

@@ -1,0 +1,38 @@
+Claim denied for Exceeds Maximum Allowable:
+
+1. Review claim in BT (Billing Tool) to check claim status and denial reason.
+
+2. Verify patient's plan and coverage in Medicaid portal or relevant insurance system.
+
+3. Check Medicaid Fee Schedule to confirm coverage for billed codes.
+
+4. If PAP supplies or specific codes are not covered by Medicaid:
+   a. Adjust claim as Medicaid waiver per SOP.
+   b. Post adjustment in BT.
+
+5. If primary insurance paid more than secondary allowed amount:
+   a. Compare primary paid amount with secondary allowed amount.
+   b. If primary paid equals or exceeds secondary allowed, adjust claim as Medicaid waiver.
+   c. Post adjustment in BT.
+
+6. If claim was crossed over from Medicare to Medicaid:
+   a. Verify claim status in Medicaid portal.
+   b. If forwarded to another payer (e.g., Humana), check EOB from that payer.
+   c. Adjust claim based on findings, following SOP for Medicaid waiver.
+
+7. If denial is due to incorrect billing:
+   a. Verify correct billing units and codes.
+   b. If errors found, correct and resubmit claim.
+
+8. For small balance denials:
+   a. If balance is minimal (e.g., $1.30 or less), adjust small balance per SOP.
+
+9. If claim requires additional information:
+   a. Gather necessary documentation.
+   b. Submit appeal with required information.
+
+10. If all steps are exhausted and claim cannot be paid:
+    a. Adjust claim as per SOP.
+    b. Write off remaining balance if applicable.
+
+11. Document all actions taken in claim notes in BT.

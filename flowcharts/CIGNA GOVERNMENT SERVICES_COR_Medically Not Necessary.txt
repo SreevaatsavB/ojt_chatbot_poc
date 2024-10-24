@@ -1,0 +1,51 @@
+Claim denied for CO-50 Medically Not Necessary:
+
+1. Check claim details in BT (Billing Tool)
+   - Verify base item and supplies information
+   - Review claim submission history
+
+2. Review Medicare audit status
+   - If audited, check audit outcome
+   - If unfavorable, proceed to step 3
+   - If not audited, skip to step 5
+
+3. Review appeal history
+   - Check if redetermination was submitted
+   - If submitted and upheld, proceed to step 4
+   - If not submitted, skip to step 5
+
+4. Review reconsideration status
+   - If submitted, check outcome
+   - If favorable, proceed to step 5
+   - If unfavorable or pending, wait for outcome
+
+5. Verify documentation
+   - Check for face-to-face evaluation
+   - Ensure all required documents are present
+
+6. If documentation is incomplete:
+   - Forward to client for additional information
+   - Request updated delivery ticket if date mismatch exists
+   - Follow up with client for missing documents
+
+7. If documentation is complete:
+   - Submit redetermination for denied claims
+   - Include good cause reason if beyond 120-day limit
+
+8. Check Medicare portal for appeal status
+   - If pending, allow time for processing
+   - If favorable, proceed to step 9
+   - If unfavorable, consider next level of appeal
+
+9. For favorable outcomes:
+   - Verify base item payment
+   - Submit redetermination for related supplies
+
+10. Monitor claim status
+    - Check for payments
+    - If paid, process is complete
+    - If still denied, return to step 3 and escalate appeal
+
+11. If all appeals exhausted:
+    - Consult with supervisor for further action
+    - Consider write-off if no further recourse available

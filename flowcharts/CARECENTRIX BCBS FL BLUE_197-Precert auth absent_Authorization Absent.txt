@@ -1,0 +1,55 @@
+Claim denied due to Authorization Absent:
+
+1. Review claim status in Billing Tool (BT) to confirm denial reason.
+
+2. Check BDM (Benefit and Documentation Management) for existing authorization:
+   a. If authorization found, proceed to step 3.
+   b. If no authorization found, proceed to step 6.
+
+3. Verify authorization details:
+   a. Check if authorization covers the correct date of service.
+   b. Confirm if authorization is for the correct HCPC code.
+   c. Verify if authorization has sufficient units.
+
+4. If authorization is valid and matches claim details:
+   a. Submit a corrected claim via BT with the correct authorization information.
+   b. If denial persists, proceed to step 5.
+
+5. Submit an appeal:
+   a. Prepare appeal documents (auth sheet, DT, CMN, sleep study if applicable).
+   b. Submit appeal via CCX web portal.
+   c. Note the ticket number and upload documents to BDM.
+
+6. If no authorization found or authorization is invalid:
+   a. Check if retro-authorization is possible.
+   b. If retro-auth possible, request authorization from client.
+   c. If retro-auth not possible, proceed to step 7.
+
+7. For no valid authorization:
+   a. If balance is over $100, task to client for assistance.
+   b. If balance is under $100, adjust the claim as per SOP.
+
+8. If claim was billed with incorrect HCPC code:
+   a. Verify correct HCPC code with client.
+   b. Change HCPC code in BT.
+   c. Submit corrected claim with new HCPC code.
+
+9. If patient name or ID mismatch:
+   a. Verify correct patient information in Availity.
+   b. Update patient information in BT.
+   c. Resubmit claim with correct patient information.
+
+10. If modifier issues:
+    a. Check authorization for approved modifiers.
+    b. Update claim in BT with correct modifiers.
+    c. Submit corrected claim.
+
+11. For all resubmissions or appeals:
+    a. Ensure submission is within timely filing limit (usually 60 days from DOS or denial date).
+    b. Use correct mailing address and payor ID from BT.
+
+12. Follow up on appeals and resubmissions:
+    a. Call insurance after 30-45 days if no response.
+    b. If appeal denied, consider next level of appeal or adjust claim if no further action possible.
+
+13. Document all actions taken in BT notes for future reference.

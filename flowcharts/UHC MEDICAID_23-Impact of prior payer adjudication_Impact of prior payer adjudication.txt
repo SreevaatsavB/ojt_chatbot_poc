@@ -1,0 +1,41 @@
+Claim denied due to Impact of Prior Payer Adjudication:
+
+1. Review claim in Billing Tool (BT) to check submission status and denial details.
+
+2. Verify EOB from secondary insurance (usually UHC Medicaid) for specific denial reason.
+
+3. Check primary insurance payment details in BT or EOB.
+
+4. Compare primary insurance payment with secondary insurance allowed amount for each HCPCS code.
+
+5. If primary payment is greater than secondary allowed amount:
+   a. Adjust the claim as per SOP (usually as Medicaid Waiver).
+   b. Write off the balance in BT.
+
+6. If primary payment is less than or equal to secondary allowed amount:
+   a. Review claim for any other issues (e.g., incorrect coding, missing information).
+   b. If other issues found, correct and resubmit the claim.
+   c. If no other issues, contact secondary insurance for clarification.
+
+7. For CPAP/PAP supplies:
+   a. Check coverage policy for Medicaid and its MCO plans.
+   b. If not covered, adjust claim as Medicaid Waiver.
+
+8. If claim was submitted to incorrect payer:
+   a. Verify correct insurance order in BT.
+   b. Check member eligibility for DOS.
+   c. Resubmit claim to correct payer (e.g., UHC HMO instead of Medicaid).
+
+9. For partially paid claims:
+   a. Review each HCPCS code separately.
+   b. For denied codes, follow steps 4-6.
+   c. For paid codes, ensure payment is posted correctly in BT.
+
+10. If denial persists after resubmission:
+    a. Review all previous actions taken.
+    b. Consider appealing the claim with supporting documentation.
+    c. Escalate to supervisor if needed.
+
+11. Document all actions taken in claim notes in BT.
+
+12. Monitor claim status regularly until resolution.

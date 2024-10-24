@@ -1,0 +1,86 @@
+Claim denied due to Missing or Invalid Information:
+
+1. Check claim status in Billing Tool (BT)
+   - If denied, proceed to step 2
+   - If not denied, no action required
+
+2. Verify denial reason in EOB or BT
+   - If missing/invalid ordering provider information, go to step 3
+   - If missing/invalid patient identifier (MBI), go to step 8
+   - If missing base code information, go to step 13
+   - If missing/invalid modifier, go to step 18
+
+3. Check ordering provider information in PECOS
+   - If provider is eligible, go to step 4
+   - If provider is ineligible or deactivated, go to step 5
+
+4. Correct ordering provider name in BT
+   - Remove any incorrect prefixes (e.g., "ZZZZ" or "***RETIRED***")
+   - Resubmit claim
+   - End process
+
+5. Check BDM or chart notes for alternative valid provider
+   - If found, go to step 6
+   - If not found, go to step 7
+
+6. Verify new provider in PECOS
+   - If eligible, update provider information in BT and resubmit claim
+   - If ineligible, go to step 7
+
+7. Forward to client for valid ordering provider information
+   - If received, update in BT and resubmit claim
+   - If not received, consider transferring balance to patient
+   - End process
+
+8. Check eligibility in CGS portal
+   - If MBI is invalid, go to step 9
+   - If MBI is valid, go to step 12
+
+9. Search for SSN in BDM documents
+   - If found, use to find new MBI
+   - If not found, go to step 10
+
+10. Task client to obtain new MBI from patient
+    - If received, go to step 11
+    - If not received, consider billing patient
+
+11. Update MBI in BT
+    - Verify eligibility with new MBI
+    - Resubmit claim
+    - End process
+
+12. Check if patient name matches Social Security Administration records
+    - If mismatch, forward to client for name update
+    - If match, resubmit claim
+    - End process
+
+13. Check BT for patient's equipment ownership
+    - If equipment owned, go to step 14
+    - If equipment not owned, go to step 15
+
+14. Add narrative to claim (e.g., "Pt owns [equipment] since [date]")
+    - Resubmit claim
+    - End process
+
+15. Check if base code was billed
+    - If billed, go to step 16
+    - If not billed, go to step 17
+
+16. Verify in CGS if base equipment is capped out
+    - If capped out, resubmit claim
+    - If not capped out, adjust claim as per SOP
+    - End process
+
+17. Forward to client for base equipment information
+    - If received, add to claim and resubmit
+    - If not received, adjust claim as per SOP
+    - End process
+
+18. Review billing modifiers
+    - If incorrect, go to step 19
+    - If correct, resubmit claim
+
+19. Add or correct modifier as per insurance guidelines
+    - For rentals, ensure correct rental month modifier (e.g., KH for first month)
+    - Resubmit claim
+    - End process

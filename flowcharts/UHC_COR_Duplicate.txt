@@ -1,0 +1,36 @@
+Claim denied as duplicate:
+
+1. Review claim status in BT (Billing Tool) to verify denial reason.
+
+2. Check billing details to confirm if the claim is actually a duplicate:
+   a. If different description or service, proceed to step 3.
+   b. If truly duplicate, close the claim.
+
+3. Review BDM (Billing Document Management) for complete medical records:
+   a. If complete records available, proceed to step 4.
+   b. If records incomplete, gather missing documents.
+
+4. Call insurance provider to verify duplicate status:
+   a. If no other provider found for same DOS and code, proceed to step 5.
+   b. If another provider confirmed, document details and close claim.
+
+5. Request reprocessing:
+   a. If allowed, submit for reprocessing.
+   b. If not allowed, proceed to step 6.
+
+6. Submit appeal with complete medical records:
+   a. If portal available, submit through portal with ticket number.
+   b. If no portal, send appeal via mail or fax.
+
+7. Allow time for processing (typically 30-65 business days).
+
+8. Follow up on reprocessing/appeal status:
+   a. If approved, close claim.
+   b. If denied again, review new denial reason and restart process if necessary.
+   c. If no response, call insurance provider for status update.
+
+9. If claim is still denied after multiple attempts:
+   a. Consider sending a corrected claim with adjusted units or line items.
+   b. Escalate to supervisor for further guidance.
+
+10. Document all actions, conversations, and decisions in the claim notes for future reference.

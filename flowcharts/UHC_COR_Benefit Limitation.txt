@@ -1,0 +1,49 @@
+Claim denied due to Benefit Limitation:
+
+1. Review claim in billing system (BT) to verify submission status and denial reason.
+
+2. Check EOB or insurance portal for specific denial details.
+
+3. Verify patient's coverage and plan details in insurance portal.
+
+4. Review billing history to check for previous payments and rental periods.
+
+5. If max benefit met:
+   a. Check if purchase price has been reached.
+   b. If yes, adjust claim as per SOP.
+   c. If no, proceed to step 6.
+
+6. If rental guidelines not met:
+   a. Verify allowed units for the HCPCS code.
+   b. Check if multiple codes were billed on the same claim (e.g., E0431 and E1390).
+   c. If multiple codes, separate claims and resubmit.
+
+7. If frequency not supported:
+   a. Review previous payments and rental history.
+   b. Verify if another provider billed for the same code.
+
+8. Call insurance (e.g., UHC at 877-842-3210) to inquire about denial reason and possible resolution.
+
+9. If appeal is necessary:
+   a. Gather required documentation (e.g., Patient BDM RX Written Order, CMN).
+   b. Submit appeal or reconsideration request with supporting documents.
+
+10. If appeal is denied:
+    a. Review denial reason.
+    b. Consider additional appeal or seek alternative reimbursement options.
+
+11. If claim needs reprocessing:
+    a. Request reprocessing from insurance representative.
+    b. Note the expected turnaround time (e.g., 30-45 business days).
+
+12. If equipment status has changed:
+    a. Check for pickup or exchange information in the system.
+    b. Verify with client if internal pickup has occurred.
+
+13. If no further action possible:
+    a. Adjust claim as per SOP.
+    b. Write off if necessary (e.g., max rentals met, item converted to purchase).
+
+14. Document all actions taken in the claim notes.
+
+15. If unable to resolve, escalate to RSM or client for further guidance.

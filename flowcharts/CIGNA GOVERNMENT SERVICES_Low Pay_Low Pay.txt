@@ -1,0 +1,41 @@
+Claim denied due to Low Pay:
+
+1. Review the claim in BT (Billing Tool) to verify claim submission status and payment details.
+
+2. Check the EOB (Explanation of Benefits) to confirm payment amount, patient responsibility, and any sequestration reduction.
+
+3. Verify if the claim was processed by both primary and secondary insurance.
+
+4. If secondary payment is posted in the primary invoice:
+   a. Task the Cash team to reverse the secondary payment in the primary invoice.
+   b. Ask Cash team to adjust the balance in the primary invoice.
+
+5. If the payment is consistent with previous DOS (Date of Service):
+   a. Compare current payment with previous DOS payment.
+   b. If consistent, adjust the balance in BT.
+
+6. If the open balance is shown as a contractual adjustment:
+   a. Review the allowed amount, paid amount, and coinsurance in the EOB.
+   b. Adjust the claim balance in BT accordingly.
+
+7. If the payment is correct but fund confirmation is pending:
+   a. Wait for fund confirmation.
+   b. Follow up after a few days if confirmation is not received.
+
+8. If the primary insurance information was incorrectly captured:
+   a. Correct the primary insurance information in the system.
+   b. Resubmit the claim if necessary.
+
+9. If the claim is not an audit claim:
+   a. Forward the claim to the Accounts Receivable (AR) department.
+
+10. If the claim is part of an audit:
+    a. Allow time for the MCR audit team to complete their initial audit response.
+    b. Follow up with the audit team if necessary.
+
+11. If all steps are completed and the payment is correct:
+    a. Post the payments as per the EOB in BT.
+    b. Close the invoice.
+
+12. If issues persist or payment is still incorrect:
+    a. Escalate to a supervisor or specialized team for further review.

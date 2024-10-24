@@ -1,0 +1,69 @@
+Claim denied with reason: Other
+
+1. Check claim status in BT (Billing Tool)
+   - If claim is not submitted, go to step 2
+   - If claim is submitted, go to step 3
+
+2. Submit claim through appropriate method (electronic or paper)
+   - If submission successful, monitor for response
+   - If submission fails, investigate reason and correct
+
+3. Verify claim status on insurance portal
+   - If claim is on file, review for specific denial reason
+   - If claim is not on file, go to step 4
+
+4. Check Medicare crossover status (if applicable)
+   - If crossed over, verify secondary insurance information
+   - If not crossed over, investigate reason and resubmit if necessary
+
+5. Verify patient eligibility for DOS (Date of Service)
+   - If eligible, continue to step 6
+   - If not eligible, consider patient billing or write-off
+
+6. Check authorization requirements
+   - If authorization required, verify if obtained
+   - If no authorization required, continue to step 7
+
+7. Verify claim details (HCPCS codes, modifiers, etc.)
+   - If incorrect, make necessary adjustments and resubmit
+   - If correct, continue to step 8
+
+8. Check timely filing limit
+   - If within limit, resubmit claim
+   - If beyond limit, consider appeal or write-off
+
+9. Review client portal for any specific instructions or notes
+   - If instructions found, follow accordingly
+   - If no specific instructions, continue to step 10
+
+10. Determine if additional information is needed
+    - If yes, gather required information (e.g., medical records, UPN)
+    - If no, continue to step 11
+
+11. Resubmit claim with any new information or corrections
+    - Monitor for response
+
+12. If claim is still denied, consider appeal process
+    - Prepare necessary documentation
+    - Submit appeal within allowed timeframe
+
+13. If appeal is denied or not possible, consider the following options:
+    - Patient billing (if appropriate)
+    - Write-off (with proper approval)
+    - Further escalation to management
+
+14. Document all actions taken in the claim notes system
+
+15. If write-off is required:
+    - Seek approval from authorized personnel (e.g., Manny)
+    - Once approved, process the write-off
+    - Update claim notes and relevant systems
+
+16. If patient billing is required:
+    - Verify patient responsibility
+    - Generate patient bill
+    - Update claim notes and relevant systems
+
+17. For any unresolved issues or complex scenarios:
+    - Escalate to supervisor or specialized team
+    - Follow up regularly until resolution

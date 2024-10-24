@@ -1,0 +1,42 @@
+Claim denied with reason: Other
+
+1. Review claim submission in billing software
+   - Check claim status and submission date
+
+2. Check web portal for claim status
+   - If claim is not on file, proceed to step 3
+   - If claim is on file, skip to step 7
+
+3. Verify member's eligibility
+   - Check primary and secondary insurance status
+   - Confirm active coverage for the date of service
+
+4. Verify mailing address and payor information
+   - Ensure information matches billing software and is within timely filing limits
+
+5. Check authorization requirements
+   - Confirm if authorization is needed for the service
+
+6. Resubmit claim
+   - Add primary insurance information to secondary claims
+   - Submit through billing software
+
+7. Check claim status in billing software
+   - If claim is closed, proceed to step 8
+   - If claim is open, skip to step 9
+
+8. Review reason for claim closure
+   - If closure is appropriate, end process
+   - If closure is incorrect, reopen claim and continue to step 9
+
+9. Check for Funds Confirmation
+   - If Funds Confirmation is received, process claim
+   - If Funds Confirmation is not received, hold claim and follow up
+
+10. Monitor claim status
+    - If claim was recently submitted, allow time for processing
+    - If no response after reasonable time, follow up with payer
+
+11. If claim remains denied or unresolved
+    - Review denial reason and take appropriate action (e.g., appeal, provide additional information)
+    - If unable to resolve, escalate to supervisor or specialized team

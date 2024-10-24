@@ -1,0 +1,51 @@
+Claim denied with reason: Other
+
+1. Review previous representative notes in BT (Billing Tool) for any existing appeal information.
+
+2. Check claim status in BT:
+   a. If claim is denied, proceed to step 3.
+   b. If claim is paid or in process, monitor for further updates.
+
+3. Call CareCentrix (CCX) at (877)725-6525 to verify appeal status:
+   a. If appeal is open and processing, allow more time (typically 120 days from received date).
+   b. If appeal is not on file, proceed to step 4.
+
+4. Check CCX web portal for claim details:
+   a. If claim is received and accepted by health plan, allow time for processing.
+   b. If claim is not found, proceed to step 5.
+
+5. Verify if reconsideration/appeal was sent:
+   a. If sent, note the date and continue to monitor.
+   b. If not sent, proceed to step 6.
+
+6. Prepare and send reconsideration/appeal:
+   a. Gather necessary documentation (claim form, medical records, etc.).
+   b. Submit appeal to CCX.
+
+7. If claim is for multiple codes:
+   a. Check if codes need to be billed separately.
+   b. Create new order/invoice for specific codes if required.
+   c. Rebill codes as necessary.
+
+8. If claim is still denied after appeal:
+   a. Review denial reason.
+   b. Consult with supervisor or client for further action.
+   c. Consider resubmitting appeal with additional information.
+
+9. If payment is received:
+   a. Verify posting in BT.
+   b. Close the case if balance is zero.
+
+10. If no response is received within 120 days:
+    a. Follow up with CCX.
+    b. Consider escalation to supervisor.
+
+11. Document all actions taken in the claim notes in BT.
+
+12. If instructed by client or supervisor:
+    a. Adjust client notes as per portal information.
+    b. Write-off the claim if directed.
+
+13. For any unclear situations or when additional assistance is needed:
+    a. Consult with supervisor.
+    b. Request billing assistance if necessary.

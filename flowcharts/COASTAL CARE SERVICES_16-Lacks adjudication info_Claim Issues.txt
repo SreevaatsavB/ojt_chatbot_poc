@@ -1,0 +1,31 @@
+Claim denied due to missing information or rejected as Not On File (NOF):
+
+1. Verify claim status in billing system and web portal.
+2. Check EOB for specific denial reason.
+3. If claim lacks information:
+   a. Review authorization status in carrier's web portal.
+   b. Verify documentation in BDM (Billing Document Management).
+   c. If documentation is available, send inquiry/dispute via email to carrier.
+   d. Allow 30 business days for processing.
+4. If claim is rejected as NOF:
+   a. Confirm claim was submitted from billing system.
+   b. Check for open rejections.
+   c. Verify policy status is active.
+   d. Ensure claim is within Timely Filing Limit (TFL).
+   e. Confirm payor ID and mailing address in billing system.
+   f. Check if preauthorization is required for the product.
+   g. Rebill claim electronically if all above checks pass.
+5. If claim denied due to incorrect insurance:
+   a. Verify current insurance coverage in Medicaid Florida web portal.
+   b. Update insurance information in billing system.
+   c. Transfer invoice to correct payor.
+6. If claim denied due to missing COB:
+   a. Review EOB from primary insurance.
+   b. Verify secondary insurance processing requirements.
+   c. If secondary doesn't process claims, bill the patient as per SOP.
+7. If claim denied for missing medical records:
+   a. Send inquiry via email to carrier requesting claim reprocessing.
+   b. Allow time for carrier's response.
+8. If unable to resolve through above steps:
+   a. Escalate to supervisor or specialized team.
+   b. Consider filing a formal appeal with all necessary documentation.

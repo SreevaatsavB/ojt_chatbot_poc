@@ -1,0 +1,39 @@
+Claim denied with reason: Blank
+
+1. Check the portal for client notes and claim status.
+   - If portal indicates balance transferred to patient, proceed to step 2.
+   - If portal doesn't provide clear information, proceed to step 3.
+
+2. Transfer bill to patient.
+   - Update claim notes with action taken.
+   - Close the claim in the software.
+
+3. Review client response (if available).
+   - If client indicates to transfer bill to patient, go to step 2.
+   - If client indicates to write off the claim, proceed to step 4.
+   - If no clear direction from client, proceed to step 5.
+
+4. Write off the claim.
+   - Update claim notes with action taken.
+   - Close the claim in the software.
+
+5. Check claim status in the software.
+   - If claim is recently closed, no further action needed.
+   - If claim is open, proceed to step 6.
+
+6. Verify if claim was recently submitted to payer.
+   - If yes, wait for processing and check status again in 5-7 business days.
+   - If no, proceed to step 7.
+
+7. Check if deductible was applied to the claim.
+   - If yes, post deductible payment and update claim notes.
+   - If no, proceed to step 8.
+
+8. Adjust the claim if necessary based on available information.
+   - Update claim notes with adjustments made.
+
+9. If claim still cannot be resolved:
+   - Escalate to supervisor for further guidance.
+   - Document all actions taken in claim notes.
+
+10. Follow up on escalated claims within 3-5 business days if no resolution is reached.

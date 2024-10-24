@@ -1,0 +1,25 @@
+Claim denied due to Coverage Issues:
+
+1. Review claim denial in BT (Brightree) system.
+2. Check EOB (Explanation of Benefits) to verify insurance information.
+3. If EOB shows different insurance than originally billed:
+   a. Check eligibility for the correct insurance in their web portal.
+   b. Add the correct insurance in BT if not already present.
+   c. Transfer claim to the correct insurance in BT.
+4. If claim denied by primary insurance (e.g., Medicaid, Medicare):
+   a. Verify if patient has an HMO plan.
+   b. If HMO plan exists, identify the correct payer (e.g., Molina, Coastal Care).
+   c. Submit claim to the identified payer via BT.
+5. If claim denied by HMO plan:
+   a. Check if there's a third-party administrator for DME claims (e.g., Coastal Care).
+   b. If yes, submit claim to the third-party administrator via BT.
+6. If claim still denied:
+   a. Call the insurance provider to confirm the correct submission process.
+   b. Follow their instructions for resubmission.
+7. For all resubmissions:
+   a. Verify the mailing address and payer ID in BT.
+   b. Check the timely filing limit (TFL) - typically 180 days from DOS (Date of Service).
+   c. Resubmit the claim within the TFL.
+8. If unable to resolve:
+   a. Escalate to a supervisor for further guidance.
+   b. Consider filing an appeal with necessary documentation.

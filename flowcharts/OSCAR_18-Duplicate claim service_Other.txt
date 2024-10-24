@@ -1,0 +1,36 @@
+Claim denied with reason: Other
+
+1. Check portal to verify payment status
+   - If payment posted, no further action needed
+   - If payment not posted, proceed to next step
+
+2. Create a provider ticket with Oscar
+   - Create ticket #1505010
+   - Wait for review and response
+
+3. Email spreadsheet to provider representative for assistance
+
+4. Create a project to work with Oscar
+   - Initiate collaboration with Oscar team
+
+5. Allow more time for client to work on payor accounts
+   - Set a reminder to follow up after a specified period
+
+6. Create project with Provider rep
+   - Collaborate with Provider rep to address unspecified issues
+
+7. If claim was submitted to payer recently
+   - Allow processing time (typically 30-45 days)
+   - Set a reminder to check claim status after processing period
+
+8. If no resolution after above steps:
+   - Escalate to supervisor or specialized team
+   - Consider appealing the denial if appropriate
+
+9. Document all actions taken in the claim notes system
+
+10. Regularly check for updates on open tickets and projects
+
+11. If payment is received or issue is resolved, close the claim
+    - Update claim status in the system
+    - Inform relevant parties of resolution

@@ -1,0 +1,43 @@
+Claim denied due to insufficient information or documentation.
+
+1. Review the claim details and denial reason in the billing software.
+
+2. Check the patient's medical records for the required documentation:
+   a. If documentation is present, proceed to step 3.
+   b. If documentation is missing, go to step 7.
+
+3. Prepare and send an audit response:
+   a. Gather all relevant documents.
+   b. Submit the response via WEB or FAX to Medicare.
+
+4. Wait for Medicare's response:
+   a. If approved, claim is resolved.
+   b. If denied again, proceed to step 5.
+
+5. Review the denial reason and documentation:
+   a. Check if Face-to-Face (F2F) notes meet coverage criteria.
+   b. Verify if all required information is present.
+
+6. If documentation is insufficient:
+   a. Forward the case for Quality Assurance (QA) review.
+   b. Request valid F2F notes or additional documentation from the provider.
+
+7. If documentation is missing:
+   a. Contact the provider to request the necessary documentation.
+   b. Set a follow-up date to check for received documentation.
+
+8. Once new documentation is received:
+   a. Review the new documentation for completeness.
+   b. If complete, return to step 3.
+   c. If still incomplete, return to step 6.
+
+9. If unable to obtain required documentation:
+   a. Consult with a supervisor for next steps.
+   b. Consider appealing the denial with available information.
+   c. If appeal is not possible, may need to write off the claim.
+
+10. Document all actions taken in the claim notes for future reference.
+
+11. If claim remains unresolved after multiple attempts:
+    a. Escalate to a senior team member or manager.
+    b. Consider alternative resolution methods or payer outreach.

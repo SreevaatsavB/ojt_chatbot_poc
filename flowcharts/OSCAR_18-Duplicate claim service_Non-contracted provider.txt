@@ -1,0 +1,39 @@
+Claim denied due to Non-contracted provider status:
+
+1. Review claim in billing tool (BT) and previous notes to understand denial reason.
+
+2. Verify denial reason in insurance portal.
+
+3. Check if provider address was updated recently (around March 2023).
+
+4. If address was updated:
+   a. Escalate issue to client to update correct address with insurance.
+   b. Wait for client to confirm address update.
+
+5. Attempt to reprocess claim:
+   a. If insurance accepts reprocessing, submit for reprocessing.
+   b. If insurance doesn't accept reprocessing (e.g., Oscar), proceed to appeal.
+
+6. Prepare appeal documentation:
+   a. Gather available medical records from BDM.
+   b. Check for valid order, F2F notes, and sleep study.
+   c. If Delivery Ticket (DT) is missing, update manually from BT.
+
+7. Submit appeal through insurance portal with all available medical records and authorization approval sheet.
+
+8. Follow up on appeal:
+   a. Call insurance (e.g., Oscar at 855-672-2788) to confirm receipt of appeal.
+   b. Request claim escalation review if necessary.
+   c. Note the expected processing time (e.g., 14 days for Oscar).
+
+9. Verify provider network status with insurance representative.
+
+10. If provider is confirmed in-network:
+    a. Inform representative about previous paid claims.
+    b. Request another claim review or escalation.
+
+11. If appeal is denied or issue persists:
+    a. Escalate to supervisor or specialized team.
+    b. Consider reaching out to provider relations department.
+
+12. Document all actions, conversations, and outcomes in the claim notes for future reference.

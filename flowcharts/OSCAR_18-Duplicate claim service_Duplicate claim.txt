@@ -1,0 +1,47 @@
+Claim denied as duplicate:
+
+1. Review claim submission in BT (Billing Tool)
+   - Check claim status and submission date
+
+2. Verify denial reason in EOB (Explanation of Benefits)
+   - Confirm denial code for duplicate claim/service
+
+3. Check BT for previous billing
+   - Search for claims with same DOS (Date of Service) and HCPCS codes
+   - If found, verify payment details
+
+4. If payment already received:
+   - Adjust the claim in BT as per SOP for duplicate claims
+   - Document the adjustment reason
+
+5. If no previous payment found:
+   - Check insurance portal for claim status
+   - If claim paid in portal but not in BT, task cash team to post payment
+
+6. If still no payment found:
+   - Call insurance to verify claim status
+   - Ask for details of the original claim
+
+7. If insurance confirms duplicate:
+   - Request information on the original claim
+   - If original claim found, compare details and adjust if necessary
+
+8. If insurance cannot find original claim:
+   - Request claim validation
+   - Note the expected processing time (e.g., 30-45 business days)
+
+9. If claim is for multiple units of same HCPCS code:
+   - Check insurance policy for allowed units per month
+   - Adjust claim balance for any units exceeding the limit
+
+10. If denial persists:
+    - Review all documentation and claim history
+    - Consider appealing the denial with supporting evidence
+    - Consult supervisor for complex cases
+
+11. Document all actions taken in claim notes
+    - Include dates, representative names, and outcomes of all interactions
+
+12. Follow up as needed:
+    - Set reminders for pending actions or responses
+    - Escalate to appropriate team if issue remains unresolved

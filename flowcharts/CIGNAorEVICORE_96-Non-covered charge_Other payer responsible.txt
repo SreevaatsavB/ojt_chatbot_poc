@@ -1,0 +1,39 @@
+Claim denied due to "Other payer responsible"
+
+1. Review claim status in BT (Billing Tool)
+   - Check claim submission date and EOB status
+
+2. Check insurance web portal (e.g., Cigna)
+   - Verify patient's Medicare eligibility
+
+3. If Medicare is primary:
+   a. Task client to obtain Medicare member ID
+   b. If Medicare ID obtained, update claim and resubmit
+   c. If Medicare ID not obtained, proceed to step 4
+
+4. Call insurance (e.g., Cigna) to discuss claim payment
+   - Explain patient's Medicare ineligibility or coverage status
+
+5. If insurance recommends sending Medicare denial letter:
+   a. Forward request to client for Medicare denial letter
+   b. Once received, send denial letter to specified fax number
+
+6. Resend claim for reprocessing
+
+7. If claim still denies:
+   a. Review updated COB (Coordination of Benefits) information
+   b. If COB is outdated, send letter to patient to update COB
+   c. Task client to update COB information with insurance
+
+8. Call insurance to verify COB update
+   - Request claim reprocessing
+   - Allow 30 business days for processing
+
+9. If claim continues to deny:
+   a. Review denial reason in EOB
+   b. If code is not covered under member's plan, bill patient
+   c. If other issues persist, consider appealing the claim
+
+10. Monitor claim status in BT for resolution
+    - If resolved, close the case
+    - If unresolved, escalate to supervisor for further action

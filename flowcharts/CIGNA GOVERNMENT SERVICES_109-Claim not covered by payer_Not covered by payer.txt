@@ -1,0 +1,59 @@
+Claim denied due to CO-109 (Not covered by payer):
+
+1. Check claim status in Billing Tool (BT)
+   - Verify denial reason and date
+
+2. Check patient eligibility in BT and CGS portal
+   - Verify current insurance coverage
+   - Check for any changes in insurance (e.g., Part C HMO plans)
+
+3. If patient has active Part C HMO plan:
+   a. Verify contract status with the HMO plan
+      - If contracted:
+        - Update insurance information in BT
+        - Recalculate Service Order (SO)
+        - Adjust Date of Service (DOS)
+        - Resubmit claim to correct payer
+      - If not contracted:
+        - Create pickup order
+        - Bill patient
+        - Close order as per SOP
+
+4. If patient address has changed:
+   - Update address in BT
+   - Resubmit claim with correct address
+
+5. Check if patient is in Skilled Nursing Facility (SNF):
+   - Verify SNF status and dates in CGS portal
+   - If in SNF during DOS:
+     - Adjust claim
+     - Add backend rental
+     - Write off claim
+
+6. If claim denied due to incorrect jurisdiction:
+   - Verify correct patient address
+   - Update address in BT if necessary
+   - Resubmit claim to correct jurisdiction
+
+7. If authorization is required:
+   - Check BDM for existing authorization
+   - If no authorization found:
+     - Task client to obtain authorization
+     - Once obtained, update in BT and resubmit claim
+
+8. If equipment has been picked up:
+   - Verify pickup date
+   - Bill patient if applicable
+   - Close order
+
+9. If patient is deceased:
+   - Verify date of death
+   - Adjust claim accordingly
+   - Close order
+
+10. If all above steps are exhausted and claim is still denied:
+    - Review SOP for specific payer or situation
+    - Consider appealing the claim if appropriate
+    - Consult supervisor for further guidance
+
+11. Document all actions taken in claim notes in BT

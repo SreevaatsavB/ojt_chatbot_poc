@@ -1,0 +1,21 @@
+Claim denied due to Provider Information issue (ROPA Ordering Physician ID not on file)
+
+1. Review claim in BT to check submission status
+2. Check NPI ID in BT
+3. Check FLMMIS portal for Medicaid ID associated with NPI
+4. If Medicaid ID found, rekey claim with this ID
+5. If claim still denied, task client for valid ROPA ID
+6. If client provides alternative physician information:
+   a. Check CMN for the suggested physician
+   b. Rekey claim with new physician information
+7. If claim still denied, repeat steps 5-6 with different physicians
+8. If multiple attempts fail, check patient's eligibility in BT
+9. If primary insurance is Medicare:
+   a. Verify Medicare coverage in BT
+   b. If Medicare coverage present, adjust claim as Medicaid Waiver
+10. If primary insurance is not Medicare:
+    a. Check COB update in portal
+    b. If COB information is outdated, transfer to patient for updating
+11. If all attempts fail and claim is past timely filing limit:
+    a. Post adjustment for the claim
+12. If issue persists, task client again for further instructions or valid provider ID

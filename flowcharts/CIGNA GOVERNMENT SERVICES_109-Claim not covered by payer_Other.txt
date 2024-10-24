@@ -1,0 +1,55 @@
+Claim denied with reason: Other
+
+1. Review claim details in the billing system
+   - Check denial reason and any specific notes
+
+2. Verify patient information
+   - Check patient address in CGS and Medicare systems
+   - If address discrepancy found, proceed to step 3
+   - If no discrepancy, proceed to step 4
+
+3. Address discrepancy resolution
+   - Contact Medicare to verify correct address
+   - If Medicare confirms incorrect address:
+     a. Forward to client for patient to update address with Social Security
+     b. Task Prochant to follow up after 2 weeks
+   - If address correct in Medicare but not in CGS:
+     a. Update address in CGS
+     b. Resubmit claim to appropriate jurisdiction
+
+4. Check for recent claim submission
+   - If claim recently submitted, allow time for processing
+   - If not recent, proceed to step 5
+
+5. Verify coverage and eligibility
+   - Check if patient's coverage is active
+   - If coverage termed, write off claim as per client instructions
+   - If coverage active, proceed to step 6
+
+6. Review claim for any adjustments needed
+   - If adjustments required:
+     a. Make necessary adjustments (e.g., add backend rental)
+     b. Resubmit adjusted claim
+   - If no adjustments needed, proceed to step 7
+
+7. Check for balance adjustments
+   - Verify payment posting in EOB
+   - Check if claim paid according to fee schedule
+   - If balance adjustment needed, perform manual allowable adjustment
+
+8. Verify patient's status (inpatient/outpatient)
+   - If patient was in SNF during DOS:
+     a. Adjust denied claim
+     b. Create new invoice for discharge date if applicable
+     c. Write off denied claim
+   - If patient not in SNF, proceed to step 9
+
+9. Check for any ongoing audits
+   - If audit in progress, allow time for audit team to complete work
+   - If no audit, proceed to step 10
+
+10. If all above steps do not resolve denial:
+    - Forward to client for further assistance or instructions
+    - Consider appeal process if appropriate
+
+11. Document all actions taken in claim notes for future reference

@@ -1,0 +1,39 @@
+Claim denied due to purchase price met:
+
+1. Review claim status in BT (Brightree) and UHC web portal
+2. Check denial reason in EOB (Explanation of Benefits)
+3. Verify rental history in BT
+   a. If max rental period reached (typically 10 months):
+      - Adjust claim as per SOP (Standard Operating Procedure)
+      - Complete CTP (Close To Pay)
+   b. If max rental period not reached:
+      - Proceed to step 4
+4. Call UHC customer service (877-842-3210)
+   a. Verify allowed amount and max rentals with representative
+   b. If incorrectly denied:
+      - Request reprocessing
+      - Ask for 30 business days processing time
+   c. If correctly denied:
+      - Proceed to step 5
+5. Review UHC guidelines for specific HCPCS code
+6. Check for any previous appeals or reprocessing requests
+   a. If appeal already submitted:
+      - Check appeal status on UHC web portal
+   b. If no previous appeal:
+      - Proceed to step 7
+7. Submit reconsideration via UHC portal
+   a. Provide clear comments explaining the issue
+   b. Include relevant documentation (rental history, payment records)
+8. If reconsideration denied or no response within 30 days:
+   a. Task to client for guidance on next steps
+   b. If client approves write-off:
+      - Adjust claim balance
+      - Make item CTP
+   c. If client requests further action:
+      - Follow client's instructions
+9. For ongoing rentals with denied claims:
+   a. Place sale order on hold
+   b. Await client response or resolution of denial
+10. Document all actions taken in claim notes
+11. If issue persists or is unclear:
+    a. Escalate to supervisor or specialized team for review

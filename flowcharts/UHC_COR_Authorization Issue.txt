@@ -1,0 +1,47 @@
+Claim denied due to Authorization Issue (CO-197 Precertification/Authorization absent)
+
+1. Review claim status in BT (Billing Tool) to verify denial reason.
+
+2. Check UHC portal for detailed claim information and denial specifics.
+
+3. Verify if authorization is actually required:
+   a. Contact UHC auth department to confirm authorization requirements.
+   b. If auth not required, proceed to step 4.
+   c. If auth required, skip to step 7.
+
+4. If auth not required, request reprocessing:
+   a. Call UHC and speak with a representative.
+   b. Explain that authorization is not required for the specific codes/services.
+   c. Request claim reprocessing.
+
+5. Follow up on reprocessing status:
+   a. Allow 30-45 business days for processing.
+   b. Check claim status in UHC portal regularly.
+
+6. If reprocessing is unsuccessful, proceed to step 7.
+
+7. Submit an appeal:
+   a. Prepare appeal documentation, including proof of network status if applicable.
+   b. Submit appeal through UHC portal or as directed by UHC representative.
+
+8. Monitor appeal status:
+   a. Check UHC portal for updates.
+   b. Follow up with UHC after 30 days if no response.
+
+9. If appeal is upheld (denied):
+   a. Request another review, citing any previous payments without authorization.
+   b. Consider escalation to UHC's network management department.
+
+10. If appeal is overturned:
+    a. Monitor claim for payment in BT and UHC portal.
+    b. Allow 15-30 business days for payment processing.
+
+11. If payment is not received after successful appeal:
+    a. Contact UHC to inquire about payment status.
+    b. Request escalation if necessary.
+
+12. If all attempts fail:
+    a. Forward case to client with all relevant documentation.
+    b. Recommend client contact UHC's network management via ProviderTechSupport@uhc.com.
+
+13. Document all actions, conversations, and outcomes in the claim notes within BT.

@@ -1,0 +1,57 @@
+Claim denied due to Coverage Issues:
+
+1. Review claim details in BT (Billing Tool)
+   - Check denial reason, DOS, HCPCS codes, and carrier information
+
+2. Verify if appeal/reconsideration has been sent
+   - If yes, proceed to step 3
+   - If no, prepare appeal/reconsideration
+
+3. Call insurance (CCX at 877-725-6525)
+   - Check appeal/reconsideration status
+   - If still processing, allow more time and follow up later
+   - If upheld, proceed to step 4
+
+4. Review denial reason:
+   a. Non-covered & not medically necessary:
+      - Check if second level appeal is available
+      - If not, proceed to step 5
+   b. Missing CMN or medical records:
+      - Gather required documents
+      - Submit reconsideration with complete records
+   c. Max benefit reached:
+      - Verify payment history in BT
+      - Check authorization in CCX web
+      - If no auth, request from client
+   d. Timely filing limit exceeded:
+      - Adjust claim as past TFL
+   e. Patient ineligible:
+      - Verify patient information and ID
+      - If ID changed, request new auth with new member ID
+
+5. If denial upheld after appeals:
+   - Check with client for further instructions
+   - If approved, bill patient
+   - If not, adjust the claim
+
+6. For non-covered services:
+   - Verify eligibility and authorization
+   - If active and authorized, send reconsideration
+   - If reconsideration upheld, send appeal with medical records, Rx, CMN, progress notes, and auth sheet
+
+7. For inclusive services:
+   - Check if payment received for primary code
+   - Adjust claim if incorrectly paid
+
+8. For benefit maximum reached:
+   - Verify number of payments received
+   - Check CMN for specific equipment mentions
+   - If CMN doesn't mention required equipment, task client for valid CMN
+
+9. For attachment required denials:
+   - Submit reconsideration through CCX portal with progress notes, Rx written order, CMN, and DT
+
+10. If all appeals exhausted and denial upheld:
+    - Obtain client approval for next steps
+    - Transfer balance to patient if instructed
+    - Adjust claim if no further action possible

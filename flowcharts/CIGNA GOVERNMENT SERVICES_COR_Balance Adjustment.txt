@@ -1,0 +1,17 @@
+Claim denied due to Balance Adjustment:
+
+1. Review the claim in the billing system to confirm denial reason.
+2. Check payment posting in the billing system to verify if payment has been posted as per EOB.
+3. Verify fee schedule in the billing system to ensure claim was paid correctly.
+4. If payment is posted and fee schedule is correct, proceed to adjust allowable.
+5. In the billing system, select "Adjust Allowable - Manual" option.
+6. Enter the appropriate adjustment amount to resolve the remaining balance.
+7. If balance is resolved, mark the claim as completed.
+8. If balance persists or discrepancies are found:
+   a. Double-check EOB details against the posted payment.
+   b. Review contract terms in the provider portal to confirm fee schedule accuracy.
+   c. If discrepancies are found, contact the payer's customer service for clarification.
+   d. If payer confirms an error, request a corrected EOB or reprocessing of the claim.
+   e. If payer stands by their decision, consider filing an appeal with supporting documentation.
+9. Document all actions taken in the claim notes within the billing system.
+10. If balance adjustment is unsuccessful or appeal is necessary, escalate to a senior AR specialist for further review.

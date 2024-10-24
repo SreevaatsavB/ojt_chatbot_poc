@@ -1,0 +1,43 @@
+Claim denied due to Impact of Prior Payer Adjudication:
+
+1. Review claim status in BT (Billing Tool) to confirm denial reason.
+
+2. Check EOB (Explanation of Benefits) from UHC (United Healthcare) to verify denial details.
+
+3. Compare primary insurance payment with secondary insurance allowed amount:
+   a. If primary paid less than or equal to secondary allowed, proceed to step 4.
+   b. If primary paid more than secondary allowed, skip to step 7.
+
+4. Verify patient's insurance coverage and plan details in UHC portal.
+
+5. If coverage is active and denial seems incorrect:
+   a. Call UHC to inquire about the denial.
+   b. Request reprocessing if UHC confirms error.
+
+6. If UHC maintains denial is correct, proceed to step 7.
+
+7. Adjust the claim balance in BT:
+   a. Mark as "Medicaid Waiver" if applicable.
+   b. Write off the difference between primary payment and secondary allowed amount.
+
+8. Post the adjustment in BT to finalize the claim.
+
+9. If this is a recurring issue for the patient:
+   a. Review previous claims for similar denials.
+   b. Adjust all affected claims following the same process.
+
+10. If denial reason is unclear or seems incorrect:
+    a. Check Medicaid fee schedule for coverage of specific HCPCS codes.
+    b. Verify if supplies (e.g., PAP supplies) are covered by Medicaid.
+
+11. For dual insurance plans (e.g., both primary and secondary with UHC):
+    a. Ensure claim is submitted correctly as secondary.
+    b. Verify correct processing order of insurances.
+
+12. If claim was submitted incorrectly:
+    a. Correct the submission in BT.
+    b. Resubmit the claim with correct information.
+
+13. Document all actions taken in the claim notes in BT.
+
+14. If issue persists or is complex, escalate to a supervisor or specialized team for further review.

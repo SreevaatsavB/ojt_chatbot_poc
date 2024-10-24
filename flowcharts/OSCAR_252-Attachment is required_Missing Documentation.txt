@@ -1,0 +1,66 @@
+Claim denied due to Missing Documentation:
+
+1. Review claim status in Billing Tool (BT) to confirm denial reason.
+
+2. Check BDM (Billing Document Management) for available medical records:
+   - CMN (Certificate of Medical Necessity)
+   - DT (Delivery Ticket)
+   - Progress notes
+   - Sleep study
+   - Face-to-face documentation
+   - Written order
+   - Compliance report (if applicable)
+
+3. If all required documents are available in BDM:
+   a. Prepare appeal package with available documents
+   b. Submit appeal through insurance portal or via fax (use fax number 888-977-2062 for Oscar)
+   c. Upload appeal confirmation in BDM
+
+4. If documents are missing:
+   a. Task client to provide missing documents
+   b. Once received, upload documents to BDM
+   c. Proceed with appeal submission
+
+5. Check insurance-specific requirements:
+   - For Oscar, compliance report may not be mandatory
+
+6. Verify Timely Filing Limit (TFL):
+   - Typically 35 days from denial date for Oscar
+   - Ensure appeal is submitted within TFL
+
+7. If claim was partially paid:
+   a. Review which HCPCS codes were denied
+   b. Submit appeal only for denied codes
+
+8. For rental equipment (e.g., E0562, E0601):
+   a. Check rental history in BT
+   b. Verify if item has converted to purchase
+   c. Include rental history information in appeal
+
+9. After submitting appeal:
+   a. Allow 30-45 business days for processing
+   b. Set a follow-up task to check appeal status
+
+10. If appeal is successful:
+    a. Verify payment details in insurance portal
+    b. Task cash team to post payment in BT
+
+11. If appeal is denied:
+    a. Review denial reason
+    b. Consider submitting a second-level appeal if appropriate
+    c. Consult with supervisor for complex cases
+
+12. For recurring denials:
+    a. Review previous successful appeals for the same HCPCS code
+    b. Use similar documentation strategy for current appeal
+
+13. If claim is reprocessed under a new claim number:
+    a. Update claim number in BT
+    b. Verify payment or new denial reason
+
+14. For denials due to no authorization:
+    a. Check for valid authorization in BDM
+    b. If authorization is missing, task client to obtain authorization
+    c. Once received, submit appeal with authorization
+
+15. Document all actions taken in claim notes in BT.

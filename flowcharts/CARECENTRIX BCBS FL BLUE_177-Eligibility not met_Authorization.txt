@@ -1,0 +1,40 @@
+Claim denied due to no authorization:
+
+1. Review previous notes in the system to understand claim status and history.
+
+2. Check patient eligibility in Availity:
+   - If patient information has changed, update the new member ID in the system.
+
+3. Review authorization status:
+   - If authorization exists but is under old member ID, proceed to step 4.
+   - If no authorization exists, proceed to step 5.
+
+4. For existing authorization under old member ID:
+   - Task client to obtain new authorization with updated member ID.
+   - Once received, log the new authorization in BT (Billing System).
+   - Prepare and submit a corrected claim with the new authorization information.
+
+5. For no existing authorization:
+   - Task client to obtain new authorization.
+   - Once received, log the new authorization in BT.
+   - Prepare and submit a corrected claim with the new authorization information.
+
+6. If client is unable to obtain authorization:
+   - Receive client's instruction on how to proceed (e.g., write-off).
+   - If instructed to write-off, adjust the claim accordingly in the system.
+
+7. After resubmitting the claim:
+   - Monitor claim status.
+   - If denied again, call insurance representative to verify claim receipt and status.
+
+8. If claim is still not processed:
+   - Verify all information is correct (member ID, authorization, etc.).
+   - Refile the claim if necessary.
+
+9. If timely filing limit is approaching or has passed:
+   - Request an exception from the insurance company.
+   - Provide necessary documentation to support the late filing.
+
+10. If all attempts to resolve the denial fail:
+    - Consult with supervisor for further guidance.
+    - Consider appealing the denial if appropriate.

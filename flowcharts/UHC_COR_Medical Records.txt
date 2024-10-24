@@ -1,0 +1,30 @@
+Claim denied due to missing medical records:
+
+1. Review claim status in BT (Billing Tool) and UHC (UnitedHealthcare) portal.
+2. Check for any correspondence (COR) received from UHC regarding missing medical records.
+3. Verify available documents in BDM (Billing Document Management) system.
+4. If documents are available:
+   a. Prepare appeal with available medical records (CMN, DT, progress notes, sleep study, compliance report, etc.).
+   b. Submit appeal through UHC web portal.
+   c. Note the tracking number or ticket number for the appeal.
+   d. Upload submitted documents to BDM.
+5. If documents are not available or outdated:
+   a. Task the client for updated medical documents.
+   b. Once received, proceed with steps 4a-4d.
+6. If appeal was previously sent:
+   a. Call UHC to verify receipt of the appeal.
+   b. If not received, resubmit the appeal.
+7. Check for specific requirements:
+   a. Verify if a specific order for each CPT code is needed.
+   b. Ensure compliance report shows usage above 70% if applicable.
+8. If claim is still pending after appeal:
+   a. Allow 30 business days for review.
+   b. Follow up with UHC if no response after 30 days.
+9. If claim is upheld:
+   a. Verify if the code was paid to another provider for the same DOS.
+   b. If so, consider billing the patient.
+10. If additional information is required:
+    a. Task the client for the specific information (e.g., proof of billing address).
+    b. Once received, submit the information through the UHC portal.
+11. Document all actions taken in the claim notes in BT.
+12. Set a follow-up date to check the status of the appeal or resubmission.

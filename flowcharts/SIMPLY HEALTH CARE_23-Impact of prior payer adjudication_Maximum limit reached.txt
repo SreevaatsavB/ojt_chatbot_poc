@@ -1,0 +1,37 @@
+Claim denied due to maximum limit reached:
+
+1. Review claim in Billing Tool (BT) to verify denial reason.
+
+2. Check billing history in BT for previous claims with same HCPCS codes.
+
+3. Verify payer guidelines for allowed frequency/units of denied codes.
+
+4. If billing error:
+   a. For primary claim: Send corrected claim
+   b. For secondary claim: Unable to rebill, proceed to step 5
+
+5. Check if claim is for rental item (e.g. E0431, E1390):
+   a. If yes, verify if billed within 31 days of previous rental
+   b. If no, proceed to step 6
+
+6. For CPAP supplies (e.g. A7030-A7039):
+   a. Verify if billed as 90-day supply
+   b. Check if payer allows 90-day supply billing
+
+7. If denial is correct per payer policy:
+   a. Adjust claim as Medicaid waiver
+   b. Write off balance if under $5.00
+
+8. If denial seems incorrect:
+   a. Call insurance to verify denial reason
+   b. Request reprocessing if error confirmed
+
+9. If reprocessing denied:
+   a. File 1st level appeal with supporting documentation
+   b. If 1st level appeal upheld, file 2nd level appeal
+
+10. If all appeals exhausted:
+    a. Forward to client for further assistance
+    b. Adjust claim balance as directed by client or per SOP
+
+11. Document all actions taken in claim notes in BT.

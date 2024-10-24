@@ -1,0 +1,50 @@
+Claim recouped due to rental cap or overpayment:
+
+1. Review claim status in BT (Billing Tool)
+   - Check submission date, payment date, and recoupment date
+
+2. Review EOB (Explanation of Benefits) and COR (Correspondence)
+   - Verify recoupment reason and denial details
+
+3. Check patient notes and billing history
+   - Verify insurance status (Medicare/Medicaid)
+   - Check for any patient responsibility
+
+4. Call UHC (United Healthcare) at (877)842-3210
+   - Verify recoupment reason
+   - Check rental payment history
+   - Inquire about payments to other providers (e.g., LINCARE)
+
+5. If recoupment is incorrect:
+   - Request reprocessing
+   - Note reference number and TAT (Turn Around Time)
+
+6. If recoupment is correct:
+   - Verify total rental months paid
+   - Check if rental cap has been met
+
+7. If rental cap not met:
+   - Submit appeal with medical documents (F2F notes, CMN, order)
+   - Send through UHC portal
+
+8. If rental cap met:
+   - Verify if another provider was paid for the same period
+   - If no other provider, request reprocessing
+
+9. If reprocessing denied:
+   - Escalate to supervisor or RSM (Regional Sales Manager)
+
+10. If escalation unsuccessful:
+    - Consider transferring balance to patient
+    - Task to client for further instructions
+
+11. Follow up on reprocessing requests
+    - Check status after 30-45 business days
+    - If no update, call UHC again
+
+12. If claim remains denied:
+    - Review options with RSM or client
+    - Consider writing off the claim if all avenues exhausted
+
+13. Document all actions in claim notes
+    - Include date, representative name, and outcome of each action

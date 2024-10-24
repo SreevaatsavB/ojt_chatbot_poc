@@ -1,0 +1,52 @@
+Claim denied with reason: Other
+
+1. Review claim details in the billing system
+   - Check for any specific notes or comments related to the denial
+
+2. Audit the account
+   - Review account status and history
+   - Look for any discrepancies or missing information
+
+3. Check portal notes (if applicable)
+   - Verify if any write-offs have been taken
+   - Look for any additional information or instructions
+
+4. Verify claim submission status
+   - Check if the claim was submitted to the payer
+   - If not submitted, submit the claim to initiate the billing process
+
+5. Check claim status with the payer
+   - If claim is not on file with payer, resubmit the claim
+
+6. Verify patient eligibility
+   - Confirm member's coverage and active status
+
+7. Review any Medicare audit results (if applicable)
+   - Check if the claim was part of a Medicare TPE Audit
+   - If audit result is favorable, reopen the claim
+   - If audit failed, initiate equipment pick up and suggest write-off
+
+8. Check for missing documents
+   - Identify any required documents (e.g., F2F notes)
+   - Request missing documents from the client or provider
+
+9. Determine if appeal or reconsideration is necessary
+   - If yes, prepare and submit appeal or reconsideration request
+   - Follow up on the appeal/reconsideration decision
+
+10. Review client instructions
+    - Check for any specific instructions from the client
+    - Follow client's directions (e.g., write-off, resubmission)
+
+11. Allow time for processing
+    - If claim is within normal processing time, wait and follow up later
+
+12. If claim remains unresolved
+    - Escalate to supervisor or specialized team for further review
+
+13. Document all actions taken
+    - Update claim notes with all actions, reasons, and outcomes
+
+14. Close or reopen claim as appropriate
+    - If resolved, ensure claim is properly closed
+    - If further action is needed, keep claim open for follow-up

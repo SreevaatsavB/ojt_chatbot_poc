@@ -1,0 +1,39 @@
+Claim denied for "Covered by other payer":
+
+1. Review claim in Billing Tool (BT) to verify submission status and denial reason.
+
+2. Check Medicaid portal to verify patient's eligibility and coverage details.
+
+3. If patient has active Medicaid HMO or MCO plan:
+   a. Verify if provider is contracted with the plan.
+   b. If contracted, resubmit claim to the HMO/MCO.
+   c. If not contracted, transfer balance to patient and initiate equipment pickup if applicable.
+
+4. If patient has primary insurance other than Medicaid:
+   a. Verify primary insurance coverage in Availity or relevant portal.
+   b. If primary insurance is active, submit claim to primary first.
+   c. If primary insurance is termed, update Coordination of Benefits (COB) with Medicaid.
+
+5. For dual-eligible patients (Medicare + Medicaid):
+   a. Verify UHC dual complete plan status in Medicaid portal.
+   b. If active, compare primary (Medicare) payment to Medicaid allowable amount.
+   c. If primary paid more, adjust claim as Medicaid waiver.
+   d. If primary paid less, submit to Medicaid as secondary.
+
+6. For PAP supplies (HCPCS codes A7030-A7039, E0601, etc.):
+   a. Check if Medicaid and its MCO plans cover these supplies.
+   b. If not covered, adjust claim as Medicaid waiver per SOP.
+
+7. If unable to resolve:
+   a. Call Medicaid for clarification on denial reason.
+   b. If other payer information is unavailable, task client for assistance.
+
+8. If COB needs updating:
+   a. Transfer balance to patient.
+   b. Notify patient to update COB with Medicaid.
+
+9. Document all actions taken in claim notes.
+
+10. If claim remains unresolved:
+    a. Review with supervisor for further guidance.
+    b. Consider appeal process if appropriate.

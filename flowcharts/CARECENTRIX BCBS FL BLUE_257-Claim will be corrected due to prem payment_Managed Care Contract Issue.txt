@@ -1,0 +1,24 @@
+Claim denied due to Managed Care Contract Issue:
+
+1. Review claim status in BT (Billing Tool)
+2. If claim is submitted, proceed to step 3. If not, submit the claim.
+3. Check denial reason in BT or insurance portal
+4. If denial reason is "Service not payable per managed care contract", proceed to step 5. If not, investigate other denial reasons.
+5. Call insurance or check Availity for policy status and premium payment information
+6. If member has not paid premium:
+   a. Transfer balance to patient in BT
+   b. Contact member to inform about outstanding premium
+   c. Advise member to pay outstanding amount to insurance
+7. If policy is terminated:
+   a. Term insurance in BT
+   b. Initiate pickup of equipment (if applicable)
+   c. Bill patient for services rendered
+8. If premium is paid or policy is active:
+   a. Verify with insurance if claim can be reprocessed
+   b. If yes, request reprocessing
+   c. If no, file an appeal with necessary documentation
+9. Monitor claim status for resolution
+10. If claim is still denied after appeal or reprocessing:
+    a. Review denial reason
+    b. If new information is available, return to step 3
+    c. If no new information, consider writing off the claim or pursuing further action based on company policy

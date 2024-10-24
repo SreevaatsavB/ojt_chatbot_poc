@@ -1,0 +1,64 @@
+Claim denied with "Other" denial reason:
+
+1. Review claim status in BT (Billing Tool)
+   - If claim shows COR (Coordination of Review), proceed to step 2
+   - If claim shows NOF (Not on File), proceed to step 8
+   - If claim shows different denial reason, proceed to step 12
+
+2. Check COR details in BT
+   - If COR requests Medical Records (MR), proceed to step 3
+   - If COR requests proof of billing address, proceed to step 6
+   - If COR indicates payment to another provider, proceed to step 7
+
+3. Check BDM (Billing Document Management) for available documents
+   - If CMN, DT, progress notes available, proceed to step 4
+   - If documents are missing, proceed to step 5
+
+4. Submit appeal with available documents
+   - Send appeal via UHC portal if possible
+   - If portal submission fails, send paper appeal to mailing address provided in COR
+
+5. Task client for missing documents
+   - Once received, proceed to step 4
+
+6. Task client for proof of billing address (W-9 form and AHCA license)
+   - Once received, submit appeal with documents
+
+7. Call insurance to verify payment details
+   - If claim paid to another provider, request information about the other provider
+   - Submit appeal with explanation and supporting documents
+
+8. Verify claim submission in UHC portal
+   - If claim found in portal, proceed to step 9
+   - If claim not found in portal, proceed to step 10
+
+9. Check claim status in UHC portal
+   - If pending, allow more time for processing
+   - If denied, identify new denial reason and restart process
+
+10. Verify patient's insurance information
+    - If incorrect insurance on file, update insurance information
+    - If correct insurance on file, proceed to step 11
+
+11. Check timely filing limit (TFL)
+    - If within TFL, resubmit claim
+    - If past TFL, prepare appeal with proof of timely filing
+
+12. For other denial reasons:
+    - Review denial reason in detail
+    - Check if additional documentation is required
+    - Prepare and submit appropriate appeal based on specific denial reason
+
+13. After any appeal submission:
+    - Set follow-up date to check appeal status
+    - If no response by follow-up date, call insurance to inquire about appeal status
+
+14. If appeal is successful:
+    - Monitor for payment
+    - If payment not received within expected timeframe, follow up with insurance
+
+15. If appeal is unsuccessful:
+    - Review denial reason for the appeal
+    - Determine if further appeal is possible
+    - If yes, gather additional supporting documentation and submit another appeal
+    - If no, consider write-off or patient billing as per company policy

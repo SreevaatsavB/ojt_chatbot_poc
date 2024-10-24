@@ -1,0 +1,29 @@
+Claim denied due to primary paid more than secondary allowable:
+
+1. Review claim in BT (Billing Tool) to check claim status and payment details.
+
+2. Check EOB (Explanation of Benefits) for primary and secondary payment amounts.
+
+3. If EOB doesn't show allowable amount, check in Availity portal.
+
+4. If still unable to find allowable amount, call insurance (Simply Health Care at 877-915-0551) to verify denial reason and get secondary allowable amount.
+
+5. Compare primary payment to secondary allowable amount:
+   a. If primary paid less than or equal to secondary allowable, request reprocessing.
+   b. If primary paid more than secondary allowable, proceed to step 6.
+
+6. Check if the denied items are covered by Medicaid:
+   a. If not covered (e.g., PAP supplies, CPAP supplies), adjust claim as Medicaid waiver.
+   b. If covered, proceed to step 7.
+
+7. For Medicaid-covered items:
+   a. If first denial, send appeal through web and TFL (Timely Filing Limit).
+   b. If second denial, send 2nd level appeal within 180 days from denial date.
+
+8. Upload all appeal documents in BDM (Billing Document Management).
+
+9. If appeal is successful, monitor for reprocessing and payment.
+
+10. If appeal is unsuccessful or not applicable, adjust claim as Medicaid waiver.
+
+11. For future claims, document the process and outcome for reference.

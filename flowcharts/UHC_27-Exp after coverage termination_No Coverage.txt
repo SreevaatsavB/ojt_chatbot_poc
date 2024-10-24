@@ -1,0 +1,47 @@
+Claim denied due to No Coverage:
+
+1. Review claim in BT (Billing Tool) to verify claim status and denial reason.
+
+2. Check patient eligibility in UHC portal or BT:
+   a. If policy is active for DOS, proceed to step 3.
+   b. If policy is terminated before DOS, proceed to step 4.
+
+3. For active policy:
+   a. Call UHC to verify denial reason.
+   b. If denial is due to unpaid premium, bill the patient.
+   c. If denial is an error, request reprocessing.
+   d. Allow 30-45 days for reprocessing.
+
+4. For terminated policy:
+   a. Search for new active policy in BT and patient documents.
+   b. If new policy found, update insurance information and resubmit claim.
+   c. If no new policy found, proceed to step 5.
+
+5. Check for Medicare eligibility:
+   a. If Medicare is active, request re-qualification documents from client.
+   b. If Medicare is not active, proceed to step 6.
+
+6. Check for any secondary insurance:
+   a. If secondary insurance found, verify coverage and submit claim.
+   b. If no secondary insurance, proceed to step 7.
+
+7. Bill the patient:
+   a. Transfer balance to patient responsibility in BT.
+   b. Update patient notes with actions taken.
+
+8. Initiate equipment pickup:
+   a. Create pickup ticket in BT.
+   b. Forward pickup request to appropriate department.
+
+9. Term insurance in BT:
+   a. Update termination date in patient's insurance information.
+
+10. For deceased patients:
+    a. Adjust the claim in BT.
+    b. Do not bill the patient or create pickup ticket.
+
+11. If patient has active coverage but claim still denied:
+    a. Task to client for further assistance or documentation.
+    b. Follow up on tasked items within 3-5 business days.
+
+12. Document all actions taken in claim notes in BT.

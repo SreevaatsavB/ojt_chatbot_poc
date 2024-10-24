@@ -1,0 +1,52 @@
+Claim denied due to Eligibility Issue:
+
+1. Review claim in BT (Billing Tool) to check submission status and initial denial reason.
+
+2. Check patient's eligibility in Availity portal or insurance-specific portal:
+   a. If eligible, proceed to step 3.
+   b. If not eligible, go to step 9.
+
+3. Call insurance to verify claim status and get detailed denial reason:
+   a. If denied due to COB (Coordination of Benefits), proceed to step 4.
+   b. If denied due to patient being inpatient, go to step 5.
+   c. If denied due to hospice enrollment, go to step 6.
+   d. If denied due to benefit maximum reached, go to step 7.
+   e. If denied for any other reason, go to step 8.
+
+4. COB denial:
+   a. Verify if COB information is up-to-date.
+   b. If not, obtain updated COB information from the patient.
+   c. Update COB information with the insurance.
+   d. Resubmit the claim.
+
+5. Inpatient denial:
+   a. Verify inpatient dates in BT or by contacting the facility.
+   b. Adjust claim dates to exclude inpatient period.
+   c. For rental items, add back-end rental in BT.
+   d. Resubmit adjusted claim if applicable.
+
+6. Hospice enrollment denial:
+   a. Verify hospice enrollment dates in BT or by contacting hospice provider.
+   b. If DOS falls within hospice period, adjust claim and write off charges.
+   c. If DOS is outside hospice period, appeal with supporting documentation.
+
+7. Benefit maximum reached:
+   a. Review payment history for the specific HCPCS code.
+   b. Verify frequency limitations with insurance.
+   c. Adjust claim if billed in error.
+   d. If billed correctly, appeal with supporting documentation.
+
+8. Other denial reasons:
+   a. Research specific denial reason.
+   b. Gather necessary documentation to support the claim.
+   c. Appeal or resubmit claim as appropriate.
+
+9. Patient not eligible:
+   a. Verify coverage dates and policy termination.
+   b. Create pickup ticket in BT if coverage has ended.
+   c. Transfer balance to patient if no active coverage.
+   d. Inform patient about coverage lapse and billing responsibility.
+
+10. If all attempts to resolve fail:
+    a. Document all actions taken in claim notes.
+    b. Escalate to supervisor for further guidance.

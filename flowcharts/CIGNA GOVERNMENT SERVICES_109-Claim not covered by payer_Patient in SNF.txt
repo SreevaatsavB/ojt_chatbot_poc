@@ -1,0 +1,52 @@
+Claim denied due to patient being in Skilled Nursing Facility (SNF):
+
+1. Check claim status in BT (Brightree) system
+   - If claim paid and recouped, proceed to step 2
+   - If claim denied, proceed to step 2
+
+2. Verify patient's SNF status in CGS portal
+   - Note SNF enrollment dates and NPI
+
+3. Determine if patient is currently in SNF or discharged
+   - If still in SNF, proceed to step 4
+   - If discharged, proceed to step 5
+
+4. For patients still in SNF:
+   - Adjust the claim as per SOP
+   - Add backend rental if order is still active
+   - If order is closed, do not add backend rental
+   - Proceed to step 8
+
+5. For discharged patients:
+   - Create new invoice on discharge date
+   - Resubmit claim to payer for post-discharge period
+   - Adjust off the denied DOS (Date of Service)
+
+6. Check if patient is deceased
+   - If deceased, adjust claim without adding backend rental
+   - Verify if service order (SO) is properly closed
+
+7. For special cases:
+   - If patient moved out of state, initiate pickup and adjust claim
+   - If order status changed (e.g., lost by CTP), adjust accordingly
+
+8. Write off the claim if:
+   - Claim was correctly denied and recouped for SNF stay
+   - Patient was under SNF care during DOS
+
+9. For claims with incorrect patient information:
+   - Update patient address in BT system
+   - Resubmit claim with corrected information
+
+10. If claim spans multiple DOS:
+    - Adjust each DOS separately according to SNF status
+
+11. For closed orders or picked up equipment:
+    - Adjust claim without adding backend rental
+
+12. If patient transferred to Hospice:
+    - Adjust claims and initiate equipment pickup if necessary
+
+13. Monitor claim status after resubmission or adjustment
+
+14. If issues persist, consider appealing the claim with supporting documentation

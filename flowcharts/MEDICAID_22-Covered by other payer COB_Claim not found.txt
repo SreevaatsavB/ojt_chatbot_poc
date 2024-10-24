@@ -1,0 +1,44 @@
+Claim denied with "Claim not found" reason:
+
+1. Review claim status in billing system (BT)
+   a. If claim shows as submitted, proceed to step 2
+   b. If claim not submitted, check for open rejections
+      i. If rejections found, resolve and submit claim
+      ii. If no rejections, proceed to step 3
+
+2. Verify claim submission details
+   a. Check payor information (ID and mailing address)
+   b. Confirm policy status is active
+   c. Verify claim is within timely filing limit
+   d. Check if preauthorization is required
+      i. If required, confirm preauthorization was obtained
+
+3. Check claim status in payor portal
+   a. If claim found, investigate discrepancy between portal and billing system
+   b. If claim not found, proceed to step 4
+
+4. Verify patient eligibility
+   a. Check eligibility in payor portal using patient name and DOB
+   b. If eligible, confirm correct policy ID
+      i. Update policy ID in billing system if necessary
+   c. If not eligible, check for alternative coverage (e.g., Medicaid)
+
+5. Review claim for any exceptions or errors
+   a. Check for missing or incorrect information (e.g., claim filing indicator, primary adjudication details)
+   b. Update claim with correct information if needed
+
+6. Resubmit claim
+   a. If electronic submission possible, resubmit through billing system
+   b. If paper claim required, prepare and mail claim
+
+7. If claim still not found after resubmission
+   a. Contact payor's customer service for assistance
+   b. Document conversation and follow up as needed
+
+8. If all attempts to resolve fail
+   a. Review SOP for next steps (e.g., bill patient, write-off)
+   b. Consult supervisor if unclear on appropriate action
+
+9. Monitor claim status after resubmission or follow-up actions
+   a. If processed, confirm payment or address new denial reason
+   b. If still not found, repeat relevant steps or escalate to management

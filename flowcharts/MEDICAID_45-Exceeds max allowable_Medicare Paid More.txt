@@ -1,0 +1,38 @@
+Claim denied due to Medicare paying more than Medicaid allows:
+
+1. Review claim processing in billing system (BT or similar)
+   - Verify primary Medicare claim status
+   - Verify secondary Medicaid claim status
+
+2. Check Medicaid portal
+   - Confirm denial reason (Medicare paid more than Medicaid allows)
+
+3. Review Medicaid fee schedule
+   - Compare Medicaid allowed amounts with Medicare payments for each HCPCS code
+
+4. If Medicare payment > Medicaid allowed amount for all codes:
+   - Adjust claim as Medicaid waiver per SOP
+   - Write off the remaining balance
+
+5. If Medicare payment > Medicaid allowed amount for some codes:
+   - Adjust claim partially as Medicaid waiver for affected codes
+   - Process remaining codes normally
+
+6. For PAP supplies (e.g., A7032, A7038, A4604):
+   - Check Medicaid coverage policy
+   - If not covered by Medicaid or Medicaid MCO plans:
+     - Adjust claim as Medicaid waiver per SOP
+     - Write off the balance
+
+7. For oxygen supplies (e.g., E1392):
+   - Verify Medicaid allowed amount
+   - If Medicare payment > Medicaid allowed amount:
+     - Adjust claim as Medicaid waiver per SOP
+     - Write off the remaining balance
+
+8. Document all actions taken in the claim notes
+
+9. If any discrepancies or unusual situations:
+   - Escalate to supervisor for further review
+
+10. Monitor for any pattern of denials and report to management if necessary

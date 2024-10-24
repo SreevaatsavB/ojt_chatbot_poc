@@ -1,0 +1,33 @@
+Claim denied due to Out of Network Provider:
+
+1. Review claim status in BT (Billing Tool) and insurance portal.
+2. Verify denial reason in portal: "Services not provided by network/primary care providers" or similar.
+3. Check provider's network status:
+   a. Call Oscar insurance at 855-672-2788.
+   b. Provide NPI #1770585986 to verify network status.
+4. If provider is confirmed in-network:
+   a. Request claim escalation for review.
+   b. Allow 2-4 weeks for reprocessing.
+5. If provider is out-of-network:
+   a. Check if there was a recent address change:
+      - If yes, proceed to step 6.
+      - If no, proceed to step 7.
+6. Address change scenario:
+   a. Escalate issue to client to update correct address with insurance.
+   b. Wait for client to confirm address update.
+   c. Once updated, attempt claim reprocessing.
+   d. If reprocessing not accepted, proceed to step 7.
+7. Submit appeal:
+   a. Gather necessary documents (F2F, CMN, Sleep study, DT, Auth sheet).
+   b. Submit appeal with medical records via Oscar portal.
+8. Follow up on appeal:
+   a. Call Oscar to confirm receipt of appeal.
+   b. Note the expected turnaround time for appeal review.
+9. If appeal is successful:
+   a. Verify claim reprocessing and payment in portal.
+   b. Review payment details.
+   c. Task cash team to post payment in BT.
+10. If appeal is unsuccessful:
+    a. Review denial reason.
+    b. If new information is available, return to step 7.
+    c. If all options exhausted, consider writing off the claim or billing the patient, as per company policy.

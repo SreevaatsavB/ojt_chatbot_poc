@@ -1,0 +1,42 @@
+Claim denied due to "Primary Paid More"
+
+1. Review claim in Billing Tool (BT) and payor portal
+   - Verify claim status and denial reason
+   - Check primary and secondary payment amounts
+
+2. Compare primary payment with secondary allowed amount
+   - If primary paid more than secondary allowed, proceed to step 3
+   - If not, investigate further for other denial reasons
+
+3. Check HCPCS code and coverage policy
+   - If CPAP supplies or PAP supplies, verify coverage policy for Medicaid and MCO plans
+   - If not covered, adjust claim as per SOP and write off
+
+4. For other HCPCS codes:
+   - Review Fee Schedule to confirm secondary allowed amount
+   - Verify primary paid amount in BT
+
+5. Adjust claim as per SOP
+   - Process as Medicaid waiver if applicable
+   - Adjust claim to reflect correct payment based on secondary allowed amount
+
+6. Check for any balance reversals
+   - If balance reversed, calculate correct allowable amount
+
+7. Write off any remaining balance if necessary
+
+8. For recurring issues:
+   - Check previous DOS for similar denials
+   - Follow established SOP for adjustments
+
+9. If claim is for Medicaid HMO plan:
+   - Verify specific plan rules and coverage
+   - Adjust or deny claim accordingly
+
+10. Document all actions taken in claim notes
+
+11. If unable to resolve:
+    - Escalate to supervisor or specialized team for further review
+
+12. Monitor claim status after adjustment
+    - Ensure proper processing and payment

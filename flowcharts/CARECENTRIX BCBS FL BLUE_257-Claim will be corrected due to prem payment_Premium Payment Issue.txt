@@ -1,0 +1,35 @@
+Claim denied due to Premium Payment Issue:
+
+1. Review claim status in BT (Billing Tool) and CCX web portal
+2. Check EOB for specific denial reason related to premium payment
+3. Verify policy status in Availity
+   a. If policy is active, proceed to step 4
+   b. If policy has ended, skip to step 7
+4. Check if member is in grace period
+   a. If in 1st month of grace period, allow time for premium payment
+   b. If in 2nd or 3rd month of grace period, proceed to step 5
+5. Call insurance (CareCentrix BCBS FL BLUE) to confirm premium payment status
+6. If premium has been paid:
+   a. Submit reconsideration with eligibility proof
+   b. Create ticket for tracking
+   c. Upload documents in BDM
+7. If premium is unpaid or policy has ended:
+   a. Transfer balance to patient responsibility
+   b. Bill patient
+   c. Create PICKUP ticket if applicable
+8. If claim was previously paid and later denied:
+   a. Verify payment details
+   b. Adjust balance if necessary
+9. For future claims:
+   a. Hold claims until premium status is resolved
+   b. Check eligibility regularly
+10. If premium is paid and policy reinstated:
+    a. Reverse patient balance
+    b. Resubmit claim to insurance
+11. If claim is reprocessed and paid:
+    a. Post payment
+    b. Adjust any remaining balance
+12. If denial persists after premium payment:
+    a. Submit appeal with proof of premium payment
+    b. Follow up with insurance after 30 days
+13. Document all actions taken in claim notes

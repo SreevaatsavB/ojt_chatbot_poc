@@ -1,0 +1,72 @@
+Claim denied for Balance Adjustments (PBA):
+1. Check payment posting in BT to verify if payment was posted as per EOB.
+2. Verify fee schedule to ensure claim was paid according to fee schedule.
+3. If small balance remains, adjust allowable manually.
+
+Claim denied for Missing primary EOB:
+1. Check claim status in BT and CCX web.
+2. Verify member information in Availity web for primary insurance.
+3. If primary insurance found, update information in BT.
+4. Task client for insurance requalification.
+5. Transfer invoice to correct payor if necessary.
+
+Claim denied for primary EOB (with Medicare coverage):
+1. Check EOB in BT to verify claim status.
+2. Check BDM for other active policy information.
+3. Verify patient's insurance coverage in Availity.
+4. If Medicare coverage found, transfer claim to Medicare.
+
+Claim incorrectly posted as denied:
+1. Review denial in Connect.
+2. Check BT EOB for correct claim information.
+3. Review primary Medicare claim processing (e.g., CGS).
+4. Allow time to receive EOB if claim was paid by primary Medicare.
+
+Claim denied due to patient dispute:
+1. Reverse balance if patient claims non-receipt of equipment.
+2. Forward to client for refund request determination.
+3. Initiate refund request if necessary.
+
+Claim in process (INP):
+1. Check claim received date in BT.
+2. Verify normal processing time (e.g., 45 days).
+3. Determine if claim is beyond normal processing time.
+4. If beyond normal time, follow up with payer.
+
+Claim denied for Missing/Invalid ordering provider information:
+1. Verify denial reason in EOB.
+2. Check submitted claim information in BT.
+3. Verify provider enrollment status in payer portal (e.g., CGS).
+4. Check provider benefits in data.cms.gov.
+5. Contact Medicare for more information on provider status if needed.
+6. Verify BDM documents for alternative ordering provider information.
+7. Forward to client if no valid ordering provider information found.
+
+Claim denied due to coverage termination:
+1. Check claim denial status on payer portal.
+2. Verify policy status in Availity.
+3. Check for new coverage or member ID.
+4. Verify authorization requirements for new coverage.
+5. Task client for authorization if required.
+6. Update payer information in BT.
+7. Resubmit claim with new information if applicable.
+
+Claim recouped:
+1. Check claim status in BT.
+2. Create voluntary refund if patient returned the item.
+3. Adjust the claim per SOP.
+4. Write off if claim denied and recouped.
+
+Claim denied due to patient in SNF:
+1. Verify denial reason in EOB.
+2. Check patient's SNF enrollment in payer system (e.g., CGS).
+3. Adjust claim with correct discharge date if applicable.
+4. Write off if claim denied correctly for SNF stay.
+
+Claim submitted to incorrect insurance:
+1. Review claim submission status in BT.
+2. Check claim status in payer portal.
+3. Verify patient's coverage and eligibility.
+4. Review patient documents for alternative insurance information.
+5. Check eligibility for alternative insurance if found.
+6. Resubmit claim to correct insurance by updating information in BT.

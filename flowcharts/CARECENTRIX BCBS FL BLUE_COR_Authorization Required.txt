@@ -1,0 +1,37 @@
+Claim denied due to Authorization Required:
+
+1. Review claim in BT (Billing Tool) to verify denial reason and claim details.
+
+2. Check BDM (Billing Data Management) for existing authorization:
+   a. If authorization found, proceed to step 3.
+   b. If no authorization found, skip to step 7.
+
+3. Verify authorization details in CCX web portal:
+   a. If authorization is valid, proceed to step 4.
+   b. If authorization is cancelled or invalid, skip to step 7.
+
+4. Send reconsideration or appeal via CCX web portal with valid authorization information.
+
+5. Allow 30 business days for processing.
+
+6. Follow up on reconsideration/appeal status:
+   a. If approved, claim is resolved.
+   b. If denied, proceed to step 7.
+
+7. Task the client to obtain authorization:
+   a. If retro authorization is possible, proceed to step 8.
+   b. If retro authorization is not possible, skip to step 10.
+
+8. Once authorization is received, update in SO (Service Order) and BDM.
+
+9. Submit corrected claim or appeal with new authorization information.
+
+10. If authorization cannot be obtained or appeal is unsuccessful:
+    a. For claims within timely filing limit, adjust the claim and rebill.
+    b. For claims past timely filing limit, adjust as TFL (Timely Filing Limit) exceeded.
+
+11. If all options are exhausted and claim is still denied:
+    a. Escalate to home plan if applicable.
+    b. Consider writing off the balance if the amount is minimal.
+
+12. Document all actions taken in claim notes for future reference.

@@ -1,0 +1,40 @@
+Claim denied due to missing authorization:
+
+1. Review claim status in Billing Tool (BT) and Coastal Care web portal.
+2. Verify denial reason is missing authorization.
+3. Check BT and Coastal Care portal for existing authorization.
+4. If authorization exists:
+   a. Verify if authorization covers the denied date of service (DOS).
+   b. If it covers DOS, prepare and send appeal with authorization details via fax.
+   c. If it doesn't cover DOS, proceed to step 5.
+5. If no authorization or invalid authorization:
+   a. Check if retro authorization is possible according to payer guidelines.
+   b. If retro auth possible, request authorization from Coastal Care.
+   c. If retro auth not possible, proceed to step 6.
+6. For purchase codes (e.g., HCPC A-codes):
+   a. Adjust the claim as per Standard Operating Procedure (SOP).
+   b. Write off the balance.
+7. For rental codes (e.g., HCPC E-codes):
+   a. Check if the order is still active in BT.
+   b. If active, adjust the claim and add backend rental.
+   c. If not active, adjust the claim and write off the balance.
+8. If authorization is pending or unclear:
+   a. Task the client for assistance or clarification.
+   b. Put the sale order (SO) on hold pending authorization.
+9. If claim is secondary and no auth is required:
+   a. Verify in SOP that no authorization is needed for secondary claims.
+   b. Adjust the claim accordingly.
+10. If patient plan has changed:
+    a. Verify current insurance details.
+    b. Check if new authorization is required under the new plan.
+    c. If required, request new authorization.
+11. If denial persists despite having valid authorization:
+    a. Double-check authorization details (dates, codes, units).
+    b. Send inquiry to Coastal Care for clarification.
+    c. Allow 30 business days for response.
+12. If all attempts to resolve fail:
+    a. Adjust the claim as per SOP.
+    b. Document all actions taken in the claim notes.
+13. For future dates of service:
+    a. Ensure valid authorization is obtained before service delivery.
+    b. Update authorization log in BT.

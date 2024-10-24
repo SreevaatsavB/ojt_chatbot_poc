@@ -1,0 +1,58 @@
+Claim denied due to Coverage Terminated:
+
+1. Review claim in Billing Tool (BT) to verify denial reason.
+
+2. Check UHC portal to verify patient's policy status and termination date.
+
+3. If policy is active for Date of Service (DOS):
+   a. Call UHC to inquire about incorrect denial.
+   b. Request claim reprocessing with reference number.
+   c. Allow time for reprocessing (usually 30 business days).
+
+4. If policy is terminated before DOS:
+   a. Check BT and patient documents for other active policies.
+   b. If another active policy found:
+      - Update insurance information in BT.
+      - Resubmit claim to new insurance.
+   c. If no other active policy found:
+      - Check Medicare eligibility in CGS portal using patient's Medicare ID.
+      - If Medicare eligible:
+        * Update insurance in BT to Medicare.
+        * Task client for requalification documents.
+        * Once received, submit claim to Medicare.
+      - If not Medicare eligible or documents not received:
+        * Term insurance in BT.
+        * Bill patient.
+        * Initiate pickup ticket in BT.
+        * Add notes to patient record.
+        * Transfer balance to patient.
+
+5. If patient deceased:
+   a. Verify date of death in CGS portal.
+   b. If DOS is after date of death:
+      - Adjust claim balance.
+      - Create pickup ticket.
+      - Update term date and patient notes with date of death.
+   c. If DOS is before date of death:
+      - Process claim as usual based on insurance status at DOS.
+
+6. For UHC Medicaid claims:
+   a. Check Medicaid portal for secondary insurance.
+   b. If secondary insurance found, submit claim to secondary.
+   c. If no secondary insurance, follow steps for billing patient.
+
+7. For claims with multiple DOS:
+   a. Review each DOS separately.
+   b. Process each DOS according to insurance status on that date.
+   c. Adjust claims for DOS past timely filing limit.
+
+8. If claim was initially paid and later denied:
+   a. Note that payment may be recouped in the future.
+   b. Process denial as usual.
+
+9. If new insurance found but provider is out-of-network:
+   a. Check if prior authorization is required.
+   b. If required, task client for authorization.
+   c. If not possible to obtain authorization, bill patient.
+
+10. Always document all actions taken in patient notes in BT.

@@ -1,0 +1,40 @@
+Claim denied due to coverage limitations:
+
+1. Review claim in billing system (BT) to check claim status and denial reason.
+
+2. Verify primary and secondary insurance payments:
+   a. If primary paid more than secondary allowed, adjust claim per SOP.
+   b. If not, proceed to next step.
+
+3. Check EOB for specific denial details:
+   a. If denied for exceeding frequency/units, verify payer guidelines and previous payments.
+   b. If denied as recently performed, check claim history.
+   c. If denied as covered by other payer, verify correct insurance.
+
+4. Verify eligibility and correct insurance information.
+
+5. If denial seems incorrect:
+   a. Call insurance (e.g., Simply Healthcare) to verify claim status and denial reason.
+   b. Request reprocessing if denial is confirmed incorrect.
+
+6. If denial is due to frequency/unit limitations:
+   a. Check if claim can be billed as separate monthly claims.
+   b. If not possible, adjust as Medicaid waiver per SOP.
+
+7. If denial is due to recent service history:
+   a. Submit first level appeal with necessary documentation.
+   b. If first appeal is denied, submit second level appeal per RSM instructions.
+
+8. For specific items not covered by Medicaid (e.g., PAP supplies, E1038):
+   a. Adjust balance per SOP.
+   b. Write off as Medicaid waiver with approval.
+
+9. If claim needs to be billed to a different payer:
+   a. Verify if the correct payer has processed the claim.
+   b. If not, submit claim to the correct payer.
+
+10. If all above steps are exhausted and claim is still denied:
+    a. Adjust claim as per SOP.
+    b. Write off if necessary, with appropriate approval.
+
+11. Document all actions taken in the claim notes for future reference.

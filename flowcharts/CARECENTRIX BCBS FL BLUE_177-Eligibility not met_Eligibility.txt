@@ -1,0 +1,31 @@
+Claim denied due to eligibility issues:
+
+1. Review claim status in BT (Billing Tool) or CCX web portal.
+2. Check eligibility in Availity portal:
+   a. If member is active for DOS, proceed to step 3.
+   b. If member is inactive for DOS, proceed to step 7.
+3. Verify member ID in Availity matches the one in BT:
+   a. If member ID matches, proceed to step 4.
+   b. If member ID is different, update BT with correct ID and resubmit claim.
+4. Check for valid authorization in BDM (Billing Document Management):
+   a. If valid authorization exists, proceed to step 5.
+   b. If no valid authorization, task client for new authorization.
+5. Send reconsideration/appeal with eligibility documentation through portal.
+6. Monitor appeal status; if denied again, proceed to step 7.
+7. Check for other active insurance policies in BT or BDM.
+8. If no other active insurance:
+   a. Bill patient as per SOP.
+   b. Create pickup ticket if equipment retrieval is needed.
+   c. Term insurance in BT.
+9. If another active policy is found:
+   a. Update insurance information in BT.
+   b. Obtain new authorization if required.
+   c. Resubmit claim with new insurance information.
+10. If claim is for a past date and TFL (Timely Filing Limit) has passed:
+    a. Submit as a new claim if possible.
+    b. If not possible, adjust off the claim as per SOP.
+11. For deceased patients:
+    a. Verify death information.
+    b. Cancel any pending pickups.
+    c. Write off the claim if equipment cannot be retrieved.
+12. Document all actions taken in the claim notes in BT.

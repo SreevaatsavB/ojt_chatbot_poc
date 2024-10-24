@@ -1,0 +1,23 @@
+Claim denied due to service not provided by network/primary care providers:
+
+1. Review claim status in BT (Billing Tool) to check claim submission status.
+2. If no response in BT, check claim status in CCX portal.
+3. Verify denial reason in CCX portal (242 - Services not provided by network/primary care providers).
+4. Check if provider became in-network recently (e.g., from March).
+5. If provider is now in-network:
+   a. Submit medical records (F2F, CMN, Sleep study, DT, Auth sheet) through portal.
+   b. Note that COMP is not mandatory.
+6. If provider status is unclear:
+   a. Call insurance (Oscar) to verify network status.
+   b. Provide NPI number to check network status.
+7. If provider is confirmed in-network:
+   a. Verify if denial is due to incorrect service location address.
+   b. If address discrepancy exists, inform client about the issue.
+8. If provider is out-of-network or address is incorrect:
+   a. Plan an appeal.
+   b. Gather available documents from patient file.
+   c. Submit appeal through portal or appropriate channel.
+9. If appeal is unsuccessful or not applicable:
+   a. Notify client about the network status issue.
+   b. Discuss potential next steps or resolution options.
+10. Document all actions taken in the claim notes for future reference.

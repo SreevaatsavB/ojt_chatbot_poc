@@ -1,0 +1,39 @@
+Claim denied due to primary insurance paying maximum allowable amount:
+
+1. Review claim in BT (Billing Tool) to verify denial reason.
+
+2. Check EOB (Explanation of Benefits) to confirm primary payment details.
+
+3. Compare primary payment with secondary insurance allowable amount:
+   a. If primary paid less than or equal to secondary allowable:
+      - Call insurance to request reprocessing
+      - Provide evidence of incorrect denial
+   b. If primary paid more than secondary allowable:
+      - Proceed to step 4
+
+4. Verify if the claim is for CPAP supplies:
+   a. If yes:
+      - Adjust claim as per SOP (Standard Operating Procedure)
+      - Write off the balance
+   b. If no:
+      - Proceed to step 5
+
+5. Check if the claim is for Medicaid:
+   a. If yes:
+      - Adjust claim as Medicaid waiver
+   b. If no:
+      - Proceed to step 6
+
+6. Adjust the claim balance in BT as per SOP.
+
+7. If applicable, write off any remaining balance.
+
+8. If denial seems incorrect or requires further investigation:
+   a. Call insurance provider for clarification
+   b. Allow additional processing time if requested by insurance representative
+   c. Follow up as needed
+
+9. Document all actions taken in the claim notes in BT.
+
+10. If issue persists or requires escalation:
+    - Consult with supervisor or senior team member for guidance

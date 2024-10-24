@@ -1,0 +1,49 @@
+Claim denied with reason: Other
+
+1. Review claim details in the billing system.
+
+2. Check if the claim is under audit:
+   a. If yes, proceed to step 3.
+   b. If no, skip to step 8.
+
+3. Verify the audit type:
+   a. If Medicare audit, continue to step 4.
+   b. If other payer audit, skip to step 7.
+
+4. For Medicare audit:
+   a. Check CGS (Medicare portal) for document submission status.
+   b. If documents not submitted, gather required documents.
+   c. Submit audit response via WEB portal with available documents.
+   d. Note the submission date in the claim notes.
+
+5. Allow time for Medicare to process the audit response.
+
+6. Follow up on audit status:
+   a. Check CGS for claim status updates.
+   b. If approved, verify payment posting in BT system.
+   c. If denied or no response, return to step 4.
+
+7. For other payer audits:
+   a. Gather required documents.
+   b. Submit audit response through appropriate channel.
+   c. Note the submission date in the claim notes.
+   d. Allow time for payer to process the audit response.
+   e. Follow up on audit status.
+
+8. If not under audit, verify claim status with the payer:
+   a. If paid, check payment posting in BT system.
+   b. If denied, identify the specific reason and take appropriate action.
+
+9. If payment is posted incorrectly:
+   a. Forward to Cash posting team for correction.
+   b. Provide details of the incorrect posting.
+
+10. If further action is needed:
+    a. Determine next steps (e.g., appeal, additional documentation).
+    b. Take necessary action or escalate to appropriate team.
+
+11. If no immediate action is required:
+    a. Note "Allow time" in claim notes.
+    b. Set a follow-up date to review the claim status.
+
+12. Regularly review and update claim status until resolved.

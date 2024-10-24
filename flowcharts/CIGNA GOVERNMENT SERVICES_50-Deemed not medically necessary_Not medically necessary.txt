@@ -1,0 +1,61 @@
+Claim denied as not medically necessary:
+
+1. Check claim status in Billing Tool (BT)
+   - Verify denial reason and date
+
+2. Review claim details in BT
+   - Check diagnosis codes used
+   - Verify HCPCS codes billed
+
+3. Check Billing Document Management (BDM) system
+   - Look for valid diagnosis codes
+   - Verify presence of required documentation (e.g., CMN, Face-to-Face notes, sleep study)
+
+4. Verify CMN status in CGS portal
+   - Check if CMN is loaded and valid
+   - Note initial date and status
+
+5. If CMN is not loaded or invalid:
+   - Submit redetermination with valid documents
+   - Include order, Face-to-Face notes, test reports, and proof of delivery
+
+6. If CMN is valid but claim still denied:
+   - Review LCD guidelines for specific HCPCS code
+   - Ensure diagnosis codes meet LCD requirements
+
+7. If diagnosis codes are incorrect:
+   - Contact client for valid diagnosis codes
+   - Update claim with correct codes if possible
+
+8. Submit redetermination via CGS portal
+   - Include all valid supporting documents
+   - Attach chart notes, CMN, and Detailed Written Order (DWO)
+
+9. Check redetermination status in CGS portal
+   - Note DCN number and decision date
+
+10. If redetermination is favorable:
+    - Allow time for claim reprocessing
+    - Monitor for payments and new EOB
+
+11. If redetermination is unfavorable:
+    - Review decision letter for specific reasons
+    - Consider submitting reconsideration if new evidence is available
+
+12. For claims with balance under $5.00:
+    - Adjust as small balance per SOP
+
+13. If patient is deceased or equipment picked up:
+    - Verify with client
+    - Adjust claim as per client instructions
+
+14. For repeated denials of same HCPCS code:
+    - Review previous successful appeals
+    - Use similar documentation and approach
+
+15. If all appeal options exhausted:
+    - Consult with client for write-off approval
+    - Adjust claim as directed by client
+
+16. Document all actions taken in claim notes
+    - Include dates, contact names, and decisions made

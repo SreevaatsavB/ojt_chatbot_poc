@@ -1,0 +1,39 @@
+Claim denied for non-covered charges:
+
+1. Review claim in BT (Billing Tool) to check claim status and submission details.
+
+2. Verify EOB (Explanation of Benefits) in Availity portal to understand specific denial reason.
+
+3. If denial reason is "History indicates that this service has been recently performed":
+   a. Check if remark code 165 is present (indicates rental claim).
+   b. If yes, prepare appeal with medical records and EOB.
+   c. Submit appeal through Availity portal.
+   d. Note appeal ticket number for future reference.
+
+4. If denial is for PAP supplies:
+   a. Check FL Medicaid Fee Schedule to verify coverage.
+   b. If not covered, post adjustment as per SOP.
+
+5. If claim was submitted to incorrect insurance:
+   a. Verify member's active status in Simply Health Care.
+   b. Check Florida Medicaid portal to confirm member's status.
+   c. Transfer claim to correct insurance (e.g., Simply Health Care).
+
+6. For other non-covered charges:
+   a. Prepare reconsideration with medical records and EOB.
+   b. Submit reconsideration through Availity portal.
+
+7. After submitting appeal or reconsideration:
+   a. Regularly check appeal status in BT and Availity portal.
+   b. If appeal is upheld, discuss with RSM (Regional Sales Manager) for next steps.
+   c. If RSM suggests, submit second level appeal or adjust the claim.
+
+8. If claim has been crossed over to FL MEDICAID:
+   a. Verify if additional action is needed for Medicaid processing.
+   b. Follow up on Medicaid claim status if necessary.
+
+9. For persistent denials or complex cases:
+   a. Consult with RSM or senior team members for guidance.
+   b. Consider additional documentation or alternative approaches to resolve the denial.
+
+10. Document all actions taken in the claim notes for future reference and follow-up.

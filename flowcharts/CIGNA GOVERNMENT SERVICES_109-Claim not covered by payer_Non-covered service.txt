@@ -1,0 +1,23 @@
+Claim denied for Non-covered service (CO-96 or CO-109):
+
+1. Verify the denial reason in the EOB.
+2. Check patient's SNF enrollment status in CGS.
+3. If patient was in SNF during DOS:
+   a. Adjust the claim per SOP.
+   b. Add backend rentals for the items.
+   c. Write off the claim as it's correctly denied for SNF stay.
+4. If patient was not in SNF during DOS:
+   a. Review the claim details in CGS.
+   b. If claim appears to be incorrectly denied:
+      i. Gather supporting documentation.
+      ii. Submit an appeal to the carrier.
+   c. If claim is correctly denied:
+      i. Verify if any other coverage applies.
+      ii. If no other coverage, write off the claim.
+5. For partially overlapping SNF stays:
+   a. Adjust the claim for non-SNF days.
+   b. Bill for eligible days after SNF discharge.
+6. If the order is still active:
+   a. Create a new invoice to be billed on the discharge date.
+7. Document all actions taken in the claim notes.
+8. If unsure about any step, consult with a supervisor or experienced team member.

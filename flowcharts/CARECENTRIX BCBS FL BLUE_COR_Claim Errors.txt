@@ -1,0 +1,57 @@
+Claim denied due to Claim Errors:
+
+1. Review claim in Billing Tool (BT) to verify submission status and denial reason.
+
+2. Check previous notes in BT for claim history and prior actions taken.
+
+3. Verify patient information in Availity or other eligibility verification system.
+
+4. If patient information is incorrect:
+   a. Update patient information in BT.
+   b. Resubmit claim with corrected information.
+
+5. If claim is rejected due to billing errors:
+   a. Create new Sale Order (SO) with correct billing information.
+   b. Submit corrected claim via BT or paper as required by the insurance.
+
+6. If claim is denied due to missing documentation:
+   a. Review required documentation in BDM (Billing Data Management).
+   b. Upload necessary documents to BDM.
+   c. Submit appeal or reconsideration with required documentation.
+
+7. If claim is denied as duplicate:
+   a. Verify if the claim is truly a duplicate in BT.
+   b. If not a duplicate, submit reconsideration with explanation.
+   c. If duplicate, adjust the claim as necessary.
+
+8. If claim is denied due to timely filing:
+   a. Check timely filing limit (TFL) for the payer.
+   b. If within TFL, resubmit claim with proof of timely filing.
+   c. If beyond TFL, submit appeal with explanation for late filing.
+
+9. If claim is denied due to authorization issues:
+   a. Verify authorization in BDM.
+   b. If authorization is valid, submit appeal with authorization information.
+   c. If authorization is missing, obtain necessary authorization and resubmit claim.
+
+10. If claim is denied due to coordination of benefits:
+    a. Verify primary insurance information in Availity.
+    b. Obtain primary EOB if necessary.
+    c. Submit claim to secondary insurance with primary EOB.
+
+11. If all above steps fail to resolve the denial:
+    a. Call insurance at the provided number (e.g., 877-725-6525 for Carecentrix).
+    b. Speak with a representative to understand the specific reason for denial.
+    c. Follow representative's instructions for resolution.
+
+12. If appeal or reconsideration is submitted:
+    a. Note the submission date and ticket number (if provided) in BT.
+    b. Allow appropriate processing time (e.g., 120 days for Carecentrix).
+    c. Follow up on appeal status if no response is received within the expected timeframe.
+
+13. If all appeal options are exhausted and claim remains denied:
+    a. Review client instructions for write-off procedures.
+    b. Adjust the claim as per client guidelines.
+    c. Document all actions taken in BT.
+
+14. Continuously monitor claim status in BT and insurance web portals for any updates or changes.

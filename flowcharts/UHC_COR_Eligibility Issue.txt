@@ -1,0 +1,42 @@
+Claim denied due to Eligibility Issue:
+
+1. Review claim denial in BT (Billing Tool) to understand specific eligibility issue.
+
+2. Check patient eligibility in insurance web portal:
+   a. If eligible, proceed to step 3.
+   b. If not eligible, go to step 7.
+
+3. Verify correct member ID:
+   a. If incorrect, update member ID in BT and resubmit claim.
+   b. If correct, proceed to step 4.
+
+4. Check policy status for date of service (DOS):
+   a. If active, proceed to step 5.
+   b. If termed, go to step 7.
+
+5. Verify prescription (RX) or Certificate of Medical Necessity (CMN):
+   a. If missing or incomplete, request updated RX/CMN from provider.
+   b. If complete, proceed to step 6.
+
+6. Check authorization requirements:
+   a. If required and missing, obtain authorization and resubmit claim.
+   b. If not required or present, proceed to step 8.
+
+7. Search for new coverage:
+   a. If found, update in BT and resubmit claim to new insurance.
+   b. If not found, proceed to step 9.
+
+8. Resubmit corrected claim:
+   a. Ensure within timely filing limit.
+   b. Verify correct mailing address and payor ID.
+
+9. If patient deceased:
+   a. Verify date of death (DOD) in relation to DOS.
+   b. If DOS is after DOD, adjust claim balance per SOP.
+
+10. If all steps are exhausted and claim is still denied:
+    a. Review appeal status if applicable.
+    b. Consider filing an appeal with supporting documentation.
+    c. Escalate to supervisor if needed.
+
+11. Document all actions taken in claim notes in BT.

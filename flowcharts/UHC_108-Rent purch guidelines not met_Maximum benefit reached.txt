@@ -1,0 +1,37 @@
+Claim denied due to maximum benefit reached or rental cap:
+
+1. Review claim in BT (Billing Tool) to verify claim status and denial reason.
+
+2. Check UHC guidelines to confirm rental allowance (typically 10 units for capped items).
+
+3. Review payment history in BT to verify the number of rental payments received.
+
+4. If less than 10 rental payments received:
+   a. Verify if claim was sent back for reprocessing through a call.
+   b. If not, contact UHC to request reprocessing.
+
+5. If 10 rental payments have been received:
+   a. Convert the item to purchase (CTP - Claim Transition Process).
+   b. Adjust the open balance in BT.
+   c. Complete CTP in the system.
+
+6. If more than 10 rental payments have been received:
+   a. Adjust off the balance for any additional claims.
+   b. Write off any remaining balance.
+
+7. For items billed under different orders:
+   a. Review complete billing history in BT.
+   b. If total payments across orders equal 10, proceed with steps 5 and 6.
+
+8. For items with frequency limitations (e.g., once in 5 years):
+   a. Check billing history in BT for previous submissions.
+   b. If within limitation period, adjust off the balance.
+   c. If outside limitation period, consider appealing with supporting documentation.
+
+9. For any unclear situations:
+   a. Task to the client for further investigation.
+   b. Provide detailed notes on the issue and findings.
+
+10. After all actions:
+    a. Update claim notes in the system with all actions taken and their reasons.
+    b. If applicable, close the order in BT.

@@ -1,0 +1,46 @@
+Claim denied due to CO-112: Service not furnished directly to the patient and/or not documented
+
+1. Check claim status in Billing Tool (BT)
+   - Verify denial reason and date
+
+2. Check Billing Document Management (BDM) system
+   - Look for valid Delivery Ticket (DT)
+   - Confirm equipment delivered to patient's address
+   - Check for signature (patient, child, care coordinator, or spouse)
+
+3. Review medical records in BDM
+   - Look for chart notes, CMN, test results, sleep study (if applicable)
+
+4. If valid DT and medical records found:
+   - Prepare appeal
+   - Submit redetermination via CGS portal
+   - Upload documents to BDM
+
+5. If valid DT or medical records missing:
+   - Task client for missing documentation
+   - Place order on hold
+
+6. Check for HCPC code issues:
+   - If incorrect HCPC, submit refund request
+   - Update HCPC and resubmit claim
+
+7. Monitor appeal status in CGS portal
+   - Allow 30-60 business days for processing
+
+8. If appeal decision is favorable:
+   - Verify claim reprocessing
+   - Allow time for payment and EOB
+
+9. If appeal denied or no response:
+   - Consider submitting another redetermination
+   - Check if further documentation is needed
+
+10. Once payment received:
+    - Verify payment posting in BT
+    - If not posted, forward to cash posting team
+
+11. If claim still denied after multiple appeals:
+    - Escalate to supervisor
+    - Consider contacting Medicare for clarification
+
+12. Document all actions taken in claim notes for future reference

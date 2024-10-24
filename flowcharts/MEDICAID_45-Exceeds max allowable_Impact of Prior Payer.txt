@@ -1,0 +1,35 @@
+Claim denied due to Impact of Prior Payer:
+
+1. Review claim in BT (Billing Tool) to check claim submission status and payment details.
+
+2. Verify if claim has been crossed over from primary insurance (usually Medicare) to secondary insurance (Medicaid).
+
+3. Review EOB (Explanation of Benefits) from secondary insurance to understand the specific denial reason.
+
+4. Check primary payer details in BT to verify the primary payment amount.
+
+5. Review Medicaid fee schedule to determine secondary allowable amount for each HCPCS code.
+
+6. Compare primary payment amount with secondary allowable amount for each code:
+   a. If primary paid more than secondary allowable:
+      - Adjust the claim in BT
+      - Write off the balance as Medicaid Waiver (if applicable)
+   b. If primary paid less than secondary allowable:
+      - Investigate further for potential billing errors
+
+7. For PAP (Positive Airway Pressure) supplies:
+   a. Check if base item (e.g., E0470, E0601) was paid
+   b. Verify if supplies were denied
+   c. If supplies denied:
+      - Adjust denied codes as Medicaid Waiver
+      - Write off per SOP (Standard Operating Procedure) for Medicaid Waiver
+
+8. If claim is for multiple HCPCS codes:
+   a. Review each code individually
+   b. Adjust or write off as necessary based on primary payment vs. secondary allowable
+
+9. If unable to resolve or unclear about next steps:
+   a. Escalate to supervisor
+   b. Consider contacting Medicaid for clarification
+
+10. Document all actions taken in the claim notes in BT.

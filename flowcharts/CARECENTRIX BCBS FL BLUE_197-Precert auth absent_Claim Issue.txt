@@ -1,0 +1,48 @@
+Claim denied for authorization:
+
+1. Check EOB in BT software to verify denial reason.
+
+2. Verify authorization in BDM or CCX web portal:
+   a. If authorization exists:
+      - Ensure correct modifier is used (e.g., RR, SQ, NU)
+      - Check if auth units are sufficient for billed units
+      - Verify auth effective dates match DOS
+   b. If no authorization found:
+      - Forward to client for auth clarification or to obtain new auth
+
+3. If authorization is valid but claim still denied:
+   a. Remove unnecessary modifiers (e.g., KX)
+   b. Correct any discrepancies between billed code and authorized code
+   c. Submit corrected claim electronically if within timely filing limit
+
+4. If authorization is insufficient:
+   a. For partial payment (some units paid, some denied):
+      - Adjust balance for unpaid units if retro-auth not possible
+   b. For zero units or no auth:
+      - Forward to client to modify units or obtain new auth
+
+5. If new or modified auth received:
+   a. Update authorization in BT or sale order
+   b. Rebill claim with correct auth information
+
+6. If claim rejected due to incorrect member information:
+   a. Verify correct member details in Availity
+   b. Check medical documents for confirmation
+   c. Update BT insurance tab with correct information
+   d. Resubmit claim with corrected details
+
+7. If claim still rejected after corrections:
+   a. Send inquiry to EDI support team
+   b. Allow time for response
+
+8. If timely filing limit exceeded:
+   a. Submit claim as paper claim
+   b. Include explanation for late filing if necessary
+
+9. If all attempts to resolve fail:
+   a. Adjust the balance as per SOP
+   b. Document reason for adjustment in notes
+
+10. For recurring denials or complex issues:
+    a. Escalate to supervisor or specialized team
+    b. Consider contacting provider relations for systemic issues

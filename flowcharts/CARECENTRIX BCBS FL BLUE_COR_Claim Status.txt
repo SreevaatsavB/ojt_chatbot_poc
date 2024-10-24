@@ -1,0 +1,36 @@
+Claim is in process or partially paid:
+
+1. Review claim status in BT (Billing Tool).
+2. Check Carecentrix web portal for claim processing status.
+3. If claim is still in process:
+   a. Verify if within normal processing time (30-45 days).
+   b. If within normal time, allow more time and check again later.
+   c. If beyond normal time, contact Carecentrix customer service.
+   d. Request claim escalation if processing time exceeded limits.
+   e. Allow 30 business days for response after escalation.
+4. If claim is partially paid or denied:
+   a. Review initial claim details and payment status.
+   b. Create new SO (Service Order) and submit corrected claim if needed.
+   c. Verify corrected claim status in Carecentrix portal.
+5. If claim is approved for payment:
+   a. Allow time for check issuance and EOB generation.
+   b. Verify payment details in Carecentrix portal.
+   c. Check BT system to confirm payment posting.
+6. If claim is denied as duplicate:
+   a. Review original invoice and adjust if necessary.
+   b. Send appeal with proper medical records.
+   c. Check appeal status in BT and Carecentrix portal.
+7. If payment is posted but balance still shows in BT:
+   a. Review balance in BT.
+   b. Adjust the claim if necessary.
+8. If duplicate invoice was created:
+   a. Adjust the duplicate invoice.
+   b. Write off any remaining balance to resolve duplicate billing.
+9. For any discrepancies or incorrect postings:
+   a. Review correspondence in BT.
+   b. Make necessary adjustments to correct errors.
+10. If additional information or documents are required:
+    a. Check correspondence for specific requirements.
+    b. Obtain necessary information from patient or provider.
+    c. Update claim and resubmit if required.
+11. Continue to monitor claim status and follow up as needed.

@@ -1,0 +1,40 @@
+Claim denied for incorrect jurisdiction area:
+
+1. Review claim status in BT (Billing Tool) to confirm denial reason.
+
+2. Verify denial reason in EOB (Explanation of Benefits).
+
+3. Check patient's current address in eligibility system (CGS or Medicare portal).
+
+4. Compare address in eligibility system with address in BT.
+
+5. If addresses don't match:
+   a. Update patient address in BT with correct address from eligibility system.
+   b. Resubmit claim with updated address to correct jurisdiction.
+
+6. If addresses match but claim still denied:
+   a. Contact Medicare (or relevant payer) to verify address update status.
+   b. If address not updated in payer's system:
+      - Request address update with payer.
+      - Create a case number for address update if provided.
+      - Allow 4-7 days for address update to process.
+   c. Once address confirmed updated, resubmit claim.
+
+7. If claim denied again after resubmission:
+   a. Contact Medicare (or relevant payer) to inquire about persistent denial.
+   b. Follow representative's suggestions for next steps (e.g., resubmit again, wait for system update).
+
+8. If issue persists:
+   a. Forward to client to verify correct address.
+   b. Place order on hold if necessary.
+   c. Allow time for response (consider Timely Filing Limit).
+
+9. If patient has moved to a different jurisdiction:
+   a. Update jurisdiction information in BT.
+   b. Resubmit claim to new jurisdiction.
+
+10. If unable to resolve:
+    a. Escalate to supervisor or specialized team.
+    b. Consider filing an appeal with supporting documentation.
+
+11. Throughout process, document all actions, conversations, and case numbers in claim notes.

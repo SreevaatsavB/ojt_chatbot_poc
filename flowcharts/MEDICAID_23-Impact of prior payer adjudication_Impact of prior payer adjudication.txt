@@ -1,0 +1,52 @@
+Claim denied due to Impact of Prior Payer Adjudication:
+
+1. Review claim status in BT (Billing Tool)
+   - Check submission date and denial reason
+
+2. Verify EOB (Explanation of Benefits)
+   - Confirm denial reason is "Impact of Prior Payer Adjudication"
+
+3. Compare primary and secondary payments
+   - Check primary insurance paid amount
+   - Check secondary insurance (Medicaid) allowed amount
+
+4. If primary paid more than secondary allowed:
+   a. For standard medical equipment (e.g., E0277, E0185):
+      - Adjust claim as Medicaid waiver per SOP
+      - Write off the balance
+
+   b. For PAP/CPAP supplies (e.g., A7030, A7031, A7034):
+      - Check Medicaid and MCO plan policies
+      - If not covered, adjust claim as Medicaid waiver
+      - Write off the balance
+
+   c. For other HCPCS codes:
+      - Check Medicaid fee schedule for allowable amount
+      - If no allowable amount, adjust claim as Medicaid waiver
+      - Write off the balance
+
+5. If primary paid less than or equal to secondary allowed:
+   - Review previous payments in BT
+   - If no previous payments, send for reprocessing
+   - If reprocessing denied, consider appeal with necessary documentation
+
+6. For rental equipment claims:
+   - Check number of rental payments received
+   - Verify rental payment limit (e.g., 10 rentals within 5 years)
+   - If limit reached, adjust claim and write off
+
+7. For Medicaid HMO plans (e.g., Simply Health Care, Sunshine State Health):
+   - Follow same process as regular Medicaid
+   - Be aware of specific plan limitations on certain codes
+
+8. If claim balance still shows in BT after adjustment:
+   - Verify all steps were completed correctly
+   - If issue persists, escalate to supervisor
+
+9. For any uncertainties:
+   - Call the insurance provider for clarification
+   - Document the call details in BT
+
+10. After all actions:
+    - Update claim notes in BT with actions taken and reasoning
+    - Close the claim in BT if resolved

@@ -1,0 +1,43 @@
+Claim denied due to billing issues:
+
+1. Review previous notes in the system to understand claim history.
+2. Check claim status in BT (Billing Tool) to verify denial.
+3. Examine EOB (Explanation of Benefits) to identify specific denial reason.
+4. If denial is due to invalid modifier:
+   a. Remove incorrect modifier (e.g., KU for standard wheelchair).
+   b. Resubmit claim with correct modifier.
+
+5. If denial is due to incorrect provider information:
+   a. Check provider NPI in BT.
+   b. Verify provider enrollment status in PECOS.
+   c. If provider not enrolled or inactive:
+      i. Check BDM (Billing Document Management) for alternative referring provider.
+      ii. If no alternative found, task client for new provider information.
+   d. Update provider information in the system.
+   e. Rebill claim with correct provider information.
+
+6. If denial is due to missing or incorrect HCPCS modifiers:
+   a. Add appropriate modifiers (e.g., RR, KI, KX for capped rental items).
+   b. Rebill claim with added modifiers.
+
+7. If patient claims non-receipt of equipment:
+   a. Check delivery ticket for signature.
+   b. If signed, reverse balance and adjust Medicare payments.
+   c. Forward to client to determine if refund request should be initiated.
+
+8. If denial reason is unclear:
+   a. Call insurance to inquire about specific denial reason.
+   b. Document conversation details.
+
+9. For all rebilled claims:
+   a. Verify TFL (Timely Filing Limit) is within acceptable range.
+   b. Ensure no authorization is required or obtain if necessary.
+   c. Confirm correct payer ID.
+
+10. If unable to resolve issue:
+    a. Post adjustment in the system.
+    b. Task client for additional information or documents as needed.
+
+11. Monitor claim status after resubmission or adjustment.
+
+12. If claim is still denied after following these steps, escalate to a supervisor for further guidance.

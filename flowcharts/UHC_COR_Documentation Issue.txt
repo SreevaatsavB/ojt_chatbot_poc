@@ -1,0 +1,35 @@
+Claim denied due to Documentation Issue (Attachment missing content)
+
+1. Review claim status in billing software to understand the denial reason.
+
+2. Contact insurance representative for more information on the denial.
+
+3. If specific documents are requested:
+   a. Task client for assistance to obtain required documents (e.g., patient receipt, delivery ticket).
+   b. If documents are available, proceed to step 4.
+   c. If documents are not available (e.g., UPS delivery), explain the situation to the insurance representative.
+
+4. Resubmit claim with available documents:
+   a. Send appeal with required documents (CMN, progress notes, delivery ticket, appeal form).
+   b. Use appropriate fax number or submission method provided by the insurance.
+
+5. Allow time for claim processing (typically 10-30 business days).
+
+6. Follow up on claim status:
+   a. If claim is reprocessed successfully, monitor for payment.
+   b. If claim is still denied or status is unclear, proceed to step 7.
+
+7. Call insurance (e.g., Optum) to check claim status:
+   a. If claim is under review, allow more time for processing.
+   b. If conflicting information is received, proceed to step 8.
+
+8. Escalate the claim:
+   a. Send claim for escalation due to status discrepancy or continued denial.
+   b. Provide all relevant information and previous actions taken.
+
+9. If claim is partially paid and partially denied:
+   a. Verify with insurance if it's an incorrect denial.
+   b. If confirmed incorrect, request reprocessing.
+   c. If denial is correct, appeal for the denied portion with necessary documentation.
+
+10. If all attempts fail, consult with a supervisor for further guidance.

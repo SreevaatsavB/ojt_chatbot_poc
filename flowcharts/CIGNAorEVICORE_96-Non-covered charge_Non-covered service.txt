@@ -1,0 +1,55 @@
+Claim denied for non-covered service:
+
+1. Review claim status in BT (Billing Tool)
+   - Verify claim submission and denial details
+
+2. Check EOB (Explanation of Benefits)
+   - Confirm denial reason as non-covered service
+
+3. Review patient's plan coverage in BT
+   - Verify if the service should be covered
+
+4. Check previous claims for the same HCPCS code in BT
+   - Look for any previous payments or denials
+
+5. If previous payments found:
+   5.1. Call insurance (CIGNA/EVICORE)
+       - Inquire about the denial reason
+       - Mention previous payment for the same code
+   5.2. Request reprocessing
+       - Provide reference number of previous paid claim
+   5.3. Note the reprocessing reference number and wait for 30-45 business days
+
+6. If no previous payments found:
+   6.1. Check if it's a rental or purchase claim
+   6.2. For rental claims:
+       - Verify if it's the first rental
+       - If first rental, prepare appeal with ORDER, PROGRESS NOTES, and DT (Delivery Ticket)
+   6.3. For purchase claims:
+       - Prepare appeal with ORDER, FACE-TO-FACE documentation, and DT
+
+7. If service is confirmed as non-covered:
+   7.1. Check SOP (Standard Operating Procedure)
+   7.2. If SOP allows, transfer balance to patient
+   7.3. Bill the patient for the non-covered service
+
+8. If denial persists after reprocessing:
+   8.1. Prepare a written appeal
+       - Include CIGNA appeal form
+       - Attach general medical records
+       - Submit within 180 days of last denial
+
+9. If appeal is denied:
+   9.1. Review denial reason
+   9.2. If appropriate, consider submitting a second-level appeal
+   9.3. If not, inform the patient about their financial responsibility
+
+10. Document all actions taken in BT
+    - Include reference numbers, representative names, and call details
+
+11. Set a follow-up reminder in BT
+    - Check claim status after the expected reprocessing or appeal timeframe
+
+12. If claim remains unresolved:
+    12.1. Escalate to a supervisor or specialized team
+    12.2. Consider contacting the client for further assistance or guidance

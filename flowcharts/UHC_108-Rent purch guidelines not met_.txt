@@ -1,0 +1,46 @@
+Claim denial resolution process:
+
+1. Review claim notes and identify the issue.
+
+2. If the issue is "Adjustment needed based on client response":
+   a. Check client portal for response details.
+   b. Adjust the claim based on client information.
+   c. Update claim notes with adjustment details.
+
+3. If the issue is "Client requested write-off":
+   a. Verify write-off request in client portal.
+   b. Process the write-off as per client response.
+   c. Update claim notes with write-off details.
+
+4. If the balance is zero in BT (Billing Tool):
+   a. Confirm zero balance in BT.
+   b. If confirmed, no further action needed.
+   c. If discrepancy found, investigate and update accordingly.
+
+5. If claim is approved to pay but payment not yet received:
+   a. Review claim in BT for current status.
+   b. Check claim status in insurance portal.
+   c. Compare current approved amount with previous DOS payment.
+   d. Allow time for payment processing if approved amount matches previous DOS.
+   e. Follow up with insurance if payment is delayed beyond expected timeframe.
+
+6. If claim was recently submitted:
+   a. Verify submission date in BT.
+   b. Allow standard processing time (usually 30-45 days).
+   c. Set a follow-up date to check claim status.
+
+7. If insufficient information is provided:
+   a. Review all available documentation in BT and client portal.
+   b. Reach out to the client or previous agent for additional information.
+   c. Once information is obtained, proceed with appropriate action.
+
+8. For any other issues not covered above:
+   a. Research the specific denial reason in insurance guidelines.
+   b. Consult with team lead or experienced colleagues if needed.
+   c. Determine appropriate action (e.g., appeal, resubmission, additional documentation).
+   d. Execute the determined action and document in claim notes.
+
+9. For all scenarios:
+   a. Update claim notes in BT with all actions taken and their outcomes.
+   b. Set appropriate follow-up date based on the action taken.
+   c. If issue is resolved, close the claim or move to next stage in workflow.

@@ -1,0 +1,55 @@
+Claim denied due to patient being in Skilled Nursing Facility (SNF)
+
+1. Review claim in Billing Tool (BT) to verify payment and recoupment status.
+
+2. Check CGS portal to verify patient's SNF enrollment dates and NPI.
+
+3. If patient was in SNF during date of service:
+   a. If order is still active:
+      - Adjust the claim as per SOP
+      - Add backend rental
+      - Write off the denied claim
+   b. If order is closed:
+      - Adjust the claim as per SOP
+      - Do not add backend rental
+      - Write off the denied claim
+
+4. If patient was discharged from SNF on or before date of service:
+   a. Create new invoice with discharge date as date of service
+   b. Resubmit claim to payer with new date of service
+   c. Adjust off the original denied claim
+
+5. If patient was transferred to another SNF or hospice:
+   a. Verify new facility's enrollment dates and NPI in CGS
+   b. Follow steps 3 or 4 based on new facility's discharge date
+
+6. If patient deceased:
+   a. Adjust the claim as per SOP
+   b. Do not add backend rental
+   c. Write off the denied claim
+   d. Create pickup order if equipment not already retrieved
+
+7. For supply items (e.g., A7030, A7031, etc.):
+   a. Create duplicate order with SNF discharge date
+   b. Adjust the denied claim
+   c. Write off the original claim
+
+8. If claim denied due to rental purchase guidelines being met:
+   a. Check CGS for rental history and CMN dates
+   b. If 13 rentals completed:
+      - Convert item to purchase (CTP)
+      - Adjust the claim as per SOP
+   c. If rentals not completed:
+      - Verify rental history across multiple providers
+      - Adjust claim based on total rental months
+
+9. If additional documentation is required:
+   a. Place order on hold
+   b. Forward to client for necessary documents
+   c. If documents received, submit for redetermination
+   d. If documents not received, consider patient billing options
+
+10. If claim denial persists:
+    a. Contact CGS for clarification
+    b. Request claim review if appropriate
+    c. Consider appeal process with supporting documentation

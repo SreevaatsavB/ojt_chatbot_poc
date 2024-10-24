@@ -1,0 +1,51 @@
+Claim denied due to Impact of prior payer adjudication:
+
+1. Review claim status in Billing Tool (BT) to verify denial reason.
+
+2. Check EOB from Simply Health Care to understand specific denial details.
+
+3. Verify primary insurance payment and secondary insurance allowed amount.
+
+4. If primary paid more than secondary allowed:
+   a. Adjust the claim as per SOP.
+   b. Check previous DOS for similar adjustments.
+
+5. If denial is for PAP supplies:
+   a. Check FL Medicaid fee schedule.
+   b. Verify if Simply Health Care follows Medicaid fee schedule.
+   c. If not covered, adjust claim as Medicaid waiver.
+
+6. If denial is for same/similar procedure within set time frame:
+   a. Check for medical records and EOB in BT.
+   b. If documents available, prepare reconsideration.
+   c. If no documents, adjust claim per recent client update.
+
+7. If claim balance is less than $5.00:
+   a. Adjust balance in BT as per SOP.
+
+8. For rental items (e.g., E1390, E0431):
+   a. Verify if it's a monthly rental.
+   b. Prepare appeal explaining it's a monthly basis code.
+   c. Include medical records such as DT, written order, and progress notes.
+
+9. If reconsideration/appeal is required:
+   a. Submit through Availity portal or web portal.
+   b. Include primary EOB, medical records, and other supporting documents.
+   c. Upload documents in BDM for record-keeping.
+
+10. If reconsideration is upheld:
+    a. Prepare second level appeal if instructed by RSM.
+    b. Include same documents as first appeal.
+    c. Mention it's a monthly rental item if applicable.
+
+11. If appeal is submitted:
+    a. Allow 30-45 business days for processing.
+    b. Follow up if no response after this period.
+
+12. If all appeals are exhausted and denial persists:
+    a. Task RSM for further assistance.
+    b. Adjust claim if instructed by RSM or client update.
+
+13. For any unclear scenarios or need for further guidance:
+    a. Consult with RSM or client for clarification.
+    b. Follow their instructions for next steps.

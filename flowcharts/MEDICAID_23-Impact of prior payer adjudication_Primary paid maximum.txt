@@ -1,0 +1,41 @@
+Claim denied due to primary insurance paying more than secondary insurance allowed amount:
+
+1. Review claim in BT (Billing Tool) to verify claim status and denial reason.
+
+2. Check EOB (Explanation of Benefits) to confirm primary payment and secondary allowed amount.
+
+3. Compare primary payment to secondary allowed amount:
+   a. If primary paid less than or equal to secondary allowed, proceed to step 4.
+   b. If primary paid more than secondary allowed, proceed to step 5.
+
+4. If primary paid less than or equal to secondary allowed:
+   a. Verify claim submission details in BT.
+   b. Call insurance to inquire about denial reason.
+   c. If error found, correct and resubmit claim.
+   d. If no error found, file an appeal with supporting documentation.
+
+5. If primary paid more than secondary allowed:
+   a. Check Medicaid fee schedule to confirm allowed amount.
+   b. Verify if the HCPCS code is covered by Medicaid:
+      - If covered, proceed to step 6.
+      - If not covered (e.g., PAP supplies), proceed to step 7.
+
+6. For covered HCPCS codes:
+   a. Adjust the claim as Medicaid waiver per SOP (Standard Operating Procedure).
+   b. Write off the remaining balance.
+
+7. For non-covered HCPCS codes (e.g., PAP supplies):
+   a. Adjust the claim as Medicaid waiver per SOP.
+   b. Write off the entire amount.
+
+8. If claim is for a patient in SNF (Skilled Nursing Facility):
+   a. Check CGs (Coverage Guidelines) to verify patient's SNF enrollment.
+   b. If in SNF, adjust the claim per SOP as no further payments can be made by secondary.
+
+9. For recurring denials or global denial issues:
+   a. Task RCM (Revenue Cycle Management) team for further assistance.
+   b. Follow up on RCM response and take recommended actions.
+
+10. Document all actions taken in the claim notes in BT.
+
+11. If unable to resolve or unsure of next steps, escalate to a supervisor or senior team member for guidance.

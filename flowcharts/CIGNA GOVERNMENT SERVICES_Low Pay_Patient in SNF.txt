@@ -1,0 +1,38 @@
+Claim denied due to patient being in Skilled Nursing Facility (SNF)
+
+1. Review the claim in BT (Billing and Tracking system)
+   - Check if the claim was paid and recouped
+
+2. Verify patient's SNF status in CGS (Cigna Government Services portal)
+   - Confirm SNF enrollment dates and NPI
+
+3. If patient was in SNF during the date of service:
+   a. For same-day discharge:
+      - Create a new invoice for the discharge date
+      - Resubmit the claim to the payer
+      - Adjust the original claim as per SOP
+   b. For continued SNF stay:
+      - Adjust the claim
+      - Do not add backend rental
+      - Write off the claim
+
+4. If patient was discharged from SNF before the date of service:
+   - Adjust the claim
+   - Add backend rental as per SOP
+
+5. If patient's SNF status is unclear or dates don't match:
+   - Contact the SNF facility for clarification
+   - Update patient records with correct information
+
+6. For all scenarios:
+   - Document actions taken in the claim notes
+   - Update claim status in BT system
+
+7. If claim is still denied after resubmission:
+   - Review denial reason
+   - If new information is available, repeat steps 1-6
+   - If denial persists, consider appealing the claim
+
+8. Monitor resubmitted or appealed claims for payment
+   - If paid, close the case
+   - If denied again, escalate to a supervisor for further review

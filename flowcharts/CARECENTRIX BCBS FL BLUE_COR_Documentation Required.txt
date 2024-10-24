@@ -1,0 +1,54 @@
+Claim denied due to missing medical records or documentation:
+
+1. Review claim status in BT (Billing Tool) to verify submission and denial reason.
+
+2. Check previous notes in BT for claim history and any prior actions taken.
+
+3. Verify available documentation in BDM (Billing Document Management) system.
+
+4. If documentation is available:
+   a. Submit appeal/reconsideration via web portal or BDM.
+   b. Include all relevant documents (e.g., RX, CMN, sleep study, progress notes, auth sheet).
+   c. Create a ticket number for tracking.
+   d. Upload sent documents to BDM.
+
+5. If documentation is not available:
+   a. Contact provider or patient to request necessary documents.
+   b. Once received, proceed with step 4.
+
+6. Call insurance (using provided number, e.g., 877-725-6525) to verify appeal/reconsideration status.
+
+7. If appeal is received and under review:
+   a. Note the reference number provided by the representative.
+   b. Allow processing time (typically up to 120 days).
+   c. Set a follow-up date to check status again.
+
+8. If appeal is not received:
+   a. Resubmit appeal/reconsideration.
+   b. Confirm receipt with insurance.
+
+9. If appeal is denied:
+   a. Review denial reason.
+   b. If additional information is requested, gather and submit within the specified timeframe.
+   c. If no further action is possible, consider submitting a second-level appeal if allowed.
+
+10. If claim is approved:
+    a. Verify payment details and expected payment date.
+    b. Monitor for actual payment receipt.
+
+11. If claim is denied as not medically necessary or not covered:
+    a. Verify EOB for patient responsibility.
+    b. If patient is responsible, proceed with billing the patient.
+
+12. If timely filing limit is exceeded:
+    a. Review claim history for any errors in submission.
+    b. If error is on provider's part, consider write-off.
+    c. If error is on payer's part, appeal with proof of timely submission.
+
+13. Regularly check BT and insurance web portal for any updates on claim status.
+
+14. Document all actions taken in the claim notes in BT.
+
+15. If no resolution after multiple attempts:
+    a. Escalate to a supervisor or specialized team.
+    b. Consider contacting the insurance provider's escalation department.
