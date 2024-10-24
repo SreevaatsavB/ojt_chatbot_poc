@@ -1,0 +1,48 @@
+1. Review claim status in BT (Billing Tool) or CCX portal
+   - Verify claim submission date and denial reason
+
+2. Check BDM (Billing Document Management) for available documents
+   - Look for RX, CMN, clinical notes, DT (Delivery Ticket), sleep study, compliance report
+
+3. If required documents are available in BDM:
+   a. Send reconsideration/appeal via CCX web portal
+   b. Include all relevant medical records
+   c. Note the reference number or ticket number
+
+4. If required documents are not available in BDM:
+   a. Task client for missing medical records
+   b. Wait for client response
+
+5. Once documents are received or if no response from client:
+   a. Send reconsideration/appeal via CCX web portal
+   b. Include all available medical records
+   c. Note the reference number or ticket number
+
+6. Upload all sent documents to BDM for future reference
+
+7. Follow up on appeal status:
+   a. Call insurance (use provided phone number, e.g., 877-725-6525)
+   b. Speak with representative and note their name
+   c. Record appeal status (received, forwarded to health plan, still in process, etc.)
+
+8. If appeal is not received by insurance:
+   a. Resend appeal with all necessary documents
+   b. Note new reference number or ticket number
+
+9. Allow appropriate processing time (60-120 days, as indicated by insurance)
+
+10. If claim is still denied after appeal:
+    a. Check for any additional appeal options
+    b. If no further appeal options, adjust claim as per client update
+
+11. For recurring denials:
+    a. Review previous successful appeals for the same issue
+    b. Use similar approach for current denial
+
+12. Continuously monitor claim status in BT and CCX portal
+
+13. If claim remains unresolved:
+    a. Escalate to supervisor or specialized team
+    b. Consider contacting provider or patient for additional information if needed
+
+This workflow provides a structured approach for new agents to handle claim denials due to missing documentation, covering various scenarios while maintaining simplicity.
