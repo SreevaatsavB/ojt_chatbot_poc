@@ -1,0 +1,45 @@
+Based on the provided claim notes, here's a decision tree for handling claims denied with the reason "97-Pmt incld for another service":
+
+1. Review the claim denial in the billing system (BT or Caretend).
+   - Verify the denial reason is "97-Pmt incld for another service".
+
+2. Check patient's status during the Date of Service (DOS):
+   a. Access CGS web portal or Medicare portal.
+   b. Verify if the patient was in:
+      - Skilled Nursing Facility (SNF)
+      - Hospital
+      - Home Health Episode
+
+3. If patient was in SNF/Hospital:
+   a. Note the admission and discharge dates.
+   b. For purchase items (e.g., E0141, E0185):
+      - Create a new Service Order (SO) with DOS as the discharge date.
+      - Re-bill the claim with the new SO and invoice number.
+   c. For rental items (e.g., E1390, E0431):
+      - Add backend billing adjustment.
+   d. Adjust off the original DOS claim.
+
+4. If patient was in Home Health Episode:
+   a. Review LCD Guidelines for the specific HCPCS code.
+   b. If the item is not separately payable during Home Health:
+      - Adjust the balance as per SOP.
+
+5. If patient was deceased:
+   a. Verify the date of death in BT or CGS web.
+   b. Close the Service Order.
+   c. Adjust the claim as per SOP.
+
+6. For all scenarios:
+   a. Post the adjustment in the billing system.
+   b. If applicable, create a new claim with the corrected information.
+
+7. If the denial persists or doesn't fit the above scenarios:
+   a. Review the EOB in Payspan for additional details.
+   b. Calculate the paid amount to verify any discrepancies.
+   c. If needed, contact customer service for clarification.
+
+8. Document all actions taken in the claim notes.
+
+9. If unable to resolve, escalate to a supervisor or specialized team.
+
+This flowchart covers the most common scenarios encountered in the provided claim notes while keeping the process simple for new agents to follow.

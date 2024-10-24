@@ -1,0 +1,45 @@
+Here's a decision tree flowchart for handling non-covered claim denials:
+
+1. Review claim status in Billing Transaction (BT) software
+   - Confirm denial reason is "Non-covered charge"
+
+2. Check payment history for the same HCPCS code
+   - If previous payment found, proceed to step 3
+   - If no previous payment, skip to step 6
+
+3. Call insurance (CIGNA/EVICORE) for clarification
+   - Verify if the code is payable under the provider contract
+   - If payable, request reprocessing and allow 30-45 business days
+   - If not payable, proceed to step 4
+
+4. Verify network status with insurance
+   - Confirm if we are an in-network provider
+   - If in-network, proceed to step 5
+   - If out-of-network, skip to step 7
+
+5. Escalate claim to insurance
+   - Submit for review with updated provider information
+   - If denied again, proceed to step 6
+
+6. Gather supporting documentation
+   - Collect ORDER, PROGRESS NOTES, and DT (Delivery Ticket)
+   - Submit appeal through insurance portal
+   - Include reference to denial date and claim number
+   - Note that Time Frame Limit (TFL) is 180 days from denial date
+
+7. Check member's eligibility
+   - Verify Date of Death (DOD) in relation to Date of Service (DOS)
+   - If DOS is after DOD, adjust the claim accordingly
+
+8. Review CMS guidelines
+   - Confirm if the claim should be submitted as rental
+   - If rental, create new SO (Service Order) and submit corrected claim
+
+9. If all above steps fail:
+   - Task the client for further assistance
+   - Consider billing the patient if appropriate under the plan
+
+10. Document all actions taken in the claim notes
+    - Include reference numbers, representative names, and call dates
+
+This flowchart covers the main scenarios encountered in the provided claim notes and offers a structured approach for new agents to handle non-covered claim denials.

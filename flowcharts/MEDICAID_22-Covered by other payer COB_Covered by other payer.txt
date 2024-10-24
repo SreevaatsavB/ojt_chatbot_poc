@@ -1,0 +1,41 @@
+Based on the provided claim denial scenarios, here's a decision tree flowchart for new AR team agents to handle claims denied due to "Covered by other payer":
+
+1. Review the claim in BT (Billing Tool) to check submission status and denial reason.
+
+2. Verify patient's insurance coverage:
+   a. Check Medicaid portal for active coverage and any MCO plans.
+   b. If applicable, check other insurance portals (e.g., UHC, CGS) for primary coverage.
+
+3. Analyze the EOB (Explanation of Benefits):
+   a. Review primary and secondary payment amounts for each HCPCS code.
+   b. Check if primary paid more than secondary allowed amount.
+
+4. If primary paid more than secondary allowed:
+   a. Adjust the claim as Medicaid waiver in BT.
+   b. Post the adjustment.
+
+5. If primary coverage is unclear:
+   a. Call the insurance representative for member information.
+   b. If member not found, follow SOP for Medicaid plan (e.g., bill to patient).
+
+6. Check if the HCPCS code is covered by Medicaid:
+   a. If not covered, adjust the balance as Medicaid Waiver.
+   b. If covered, proceed to next step.
+
+7. Verify if the provider is contracted with the primary insurance:
+   a. If non-contracted, transfer balance to patient and create equipment pick-up if applicable.
+   b. If contracted, proceed to next step.
+
+8. Check for any missing information (e.g., re-qualification documents):
+   a. If missing, task client for assistance in obtaining documents.
+   b. If all information is present, proceed to next step.
+
+9. If denial persists:
+   a. Adjust the balance in BT as per the correct denial.
+   b. Post the adjustment.
+
+10. If further assistance is needed:
+    a. Escalate to a supervisor.
+    b. Consider appealing the claim with necessary documentation.
+
+This flowchart covers the main scenarios encountered in the provided examples while keeping the process simple for new agents to follow.

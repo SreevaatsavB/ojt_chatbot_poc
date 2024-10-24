@@ -1,0 +1,45 @@
+Based on the provided claim denial scenarios for "Exceeds Maximum" denials, here's a decision tree flowchart for new AR team agents to follow:
+
+1. Review the claim in BT (Billing Tool) to verify the denial reason and submission status.
+
+2. Check the patient's plan coverage and active MCO plan (if applicable) in the portal.
+
+3. If the claim is for PAP supplies:
+   a. Review the FL Medicaid Fee schedule.
+   b. If PAP supplies are not listed or covered:
+      - Adjust the claim balance as per SOP for Medicaid Waiver claims.
+      - Post the adjustment.
+   c. If PAP supplies are covered, proceed to step 4.
+
+4. Verify if the claim was submitted to primary insurance (if applicable):
+   a. If primary insurance paid, check if the payment exceeds the secondary (Medicaid) allowable amount.
+   b. If primary paid more than secondary allows, adjust the claim accordingly.
+
+5. Check if the billed units are correct for the specific HCPCS codes.
+
+6. If the claim is partially paid and partially denied:
+   a. Adjust the units to reflect the allowed amount for the paid codes.
+   b. For denied codes, proceed to step 7.
+
+7. Determine if an appeal is necessary:
+   a. If the denied amount is significant, prepare and send an appeal with supporting documentation.
+   b. If the denied amount is minimal (e.g., $1.30), adjust the claim as per SOP.
+
+8. For claims with multiple HCPCS codes:
+   a. Review each code individually for coverage and payment status.
+   b. Adjust codes that are not covered or exceed the allowable amount.
+
+9. If the claim is for a Medicaid Waiver patient:
+   a. Verify if the billed supplies are covered under the waiver program.
+   b. If not covered, adjust the claim balance as per SOP for Medicaid Waiver claims.
+
+10. If all steps have been exhausted and the claim is still denied:
+    a. Document all actions taken in the claim notes.
+    b. Adjust the claim as per SOP for non-covered services or exceeding maximum allowable.
+
+11. Finalize the claim:
+    a. Post all necessary adjustments.
+    b. Update the claim status in BT.
+    c. Document the final resolution in the claim notes.
+
+This flowchart covers the main scenarios encountered in the provided examples while keeping the process as simple as possible for new agents to follow.

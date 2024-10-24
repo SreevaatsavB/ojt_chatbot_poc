@@ -1,0 +1,56 @@
+Here's a decision tree flowchart for handling claim denials due to No Coverage:
+
+1. Review the claim denial in the billing system (BT or other software).
+   - Confirm the denial reason is "No Coverage" or "Exp after coverage termination".
+
+2. Check patient eligibility in the insurance portal (UHC or relevant carrier).
+   - Verify the policy termination date.
+
+3. If the policy is terminated before the date of service:
+   a. Search for other active insurance plans:
+      - Check patient documents in BT.
+      - Review medical records.
+      - Verify in the insurance portal using patient name and DOB.
+
+4. If no other active insurance is found:
+   a. For commercial plans:
+      - Bill the balance to the patient.
+      - Create a pick-up ticket.
+      - Update the insurance termination date in BT.
+      - Add notes to the patient's record.
+      - Post the transfer of balance to patient responsibility.
+
+   b. For Medicare plans:
+      - Check for Medicare eligibility in the portal.
+      - If eligible, request re-qualification documents from the client.
+      - Place the service order on hold.
+      - Once documents are received, recalculate the service order and re-bill to Medicare.
+
+5. If the policy shows as active, but the claim is still denied:
+   a. Call the insurance company to verify the reason for denial.
+   b. If due to unpaid premiums:
+      - Inform the patient about the unpaid premium.
+      - Bill the patient for the premium payment.
+
+6. If the patient is deceased:
+   a. Verify the date of death.
+   b. If DOS is after the date of death:
+      - Adjust the claim balance.
+      - Create a pick-up.
+      - Update termination date, date of death, and patient notes in BT.
+      - Post the adjustment.
+
+7. If the claim was paid but later recouped:
+   - Bill the patient for the recouped amount.
+   - Update patient notes regarding the recoupment.
+
+8. If the policy was renewed or a new policy started after the DOS:
+   - Allow time for claim processing if it shows as "in process".
+   - If denied, follow steps for billing the patient.
+
+9. For all scenarios:
+   - Document all actions taken in the patient notes.
+   - Ensure all updates are made in the billing system (BT).
+
+10. If any unique situations arise that don't fit this flowchart:
+    - Escalate to a supervisor or experienced team member for guidance.

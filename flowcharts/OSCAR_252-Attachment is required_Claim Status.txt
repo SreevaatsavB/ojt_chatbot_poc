@@ -1,0 +1,33 @@
+Based on the provided claim actions, here's a decision tree flowchart for new agents to handle claim denials:
+
+1. Review the claim status in the portal or Payspan EOB.
+
+2. If the claim is marked as "Write-off taken":
+   a. Review portal notes to confirm write-off details.
+   b. Verify the write-off amount.
+   c. Document the write-off in the claims management system.
+
+3. If the claim is denied due to lack of documentation:
+   a. Attach CMN (Certificate of Medical Necessity) and EOB (Explanation of Benefits) to the online portal.
+   b. Fax LMN (Letter of Medical Necessity) to 8889772062.
+   c. If required, also fax F2F SS (Face-to-Face Supporting Statement) to the same number.
+
+4. If the claim is paid but not posted in Caretend:
+   a. Review the payment details in Payspan EOB.
+   b. Calculate the paid amount to verify the payment.
+   c. If the balance is less than $6.00, post the payment and adjust the balance in Caretend.
+
+5. If the claim is marked as "Non-workable":
+   a. Review the claim status to confirm it's non-workable.
+   b. Document the findings, including the date it was last worked on.
+
+6. If the claim status is unclear:
+   a. Review portal notes for any recent updates.
+   b. Check Payspan EOB for payment information.
+   c. Verify if any actions have been taken recently by other agents.
+
+7. For all scenarios:
+   a. Document all actions taken in the claims management system.
+   b. If unable to resolve, escalate to a supervisor or specialized team.
+
+This flowchart covers the main scenarios encountered in the provided claim actions and provides a simple guide for new agents to follow when addressing claim denials.

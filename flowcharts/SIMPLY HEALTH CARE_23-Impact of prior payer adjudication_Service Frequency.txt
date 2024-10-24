@@ -1,0 +1,45 @@
+Based on the provided claim notes, here's a decision tree for handling denials related to "Service Frequency" or "Max Frequency Met (MFM)" for Simply Health Care:
+
+1. Review the claim in the billing system to verify the denial reason.
+
+2. Check the billing history to confirm if a similar procedure was billed within the last 31 days.
+
+3. If no similar procedure was billed within 31 days:
+   a. Discuss the issue with the RSM (Regional Sales Manager) for guidance.
+   b. Proceed to step 4.
+
+4. Submit a 1st level appeal as reconsideration:
+   a. Include available documents explaining the issue.
+   b. Submit through the Availity portal or as directed by Simply Health Care.
+
+5. Check the reconsideration status in the Availity portal after 2-4 weeks.
+
+6. If the reconsideration is upheld:
+   a. Review the correspondence letter for the specific reason.
+   b. Forward the upheld letter to the client.
+   c. Wait for client's response on how to proceed.
+
+7. If the client instructs to file a 2nd level appeal:
+   a. Gather necessary documents (medical records, Medicare primary EOB, detailed explanation).
+   b. Submit the 2nd level appeal within the timely filing limit (TFL).
+
+8. Monitor the 2nd level appeal status:
+   a. Check the Availity portal or contact Simply Health Care for updates.
+
+9. If the 2nd level appeal is upheld or dismissed:
+   a. Review the upheld letter for the specific reason.
+   b. Forward the appeal upheld letter to the client for further assistance.
+
+10. If all appeals are exhausted and denied:
+    a. Discuss with the RSM about adjusting the balance.
+    b. If approved, post the adjustment in the billing system.
+
+11. For claims processed as primary without a primary insurance EOB:
+    a. Submit a corrected claim with the primary insurance EOB.
+    b. Ensure submission within 90 days of the initial processing date.
+
+12. If the issue persists or requires further action:
+    a. Task the client for additional assistance or guidance.
+    b. Follow the client's instructions for next steps.
+
+Throughout the process, document all actions, conversations, and decisions in the claim notes for future reference.

@@ -1,0 +1,52 @@
+Here's a decision tree flowchart for handling claim denials due to missing authorization:
+
+1. Review the claim in BT (Billing Tool) to verify submission date and initial denial reason.
+
+2. Check the EOB (Explanation of Benefits) for specific denial details.
+
+3. Verify authorization status:
+   a. Check in BDM (Billing Data Management) system
+   b. Check in Coastal Care web portal
+   c. Check any available authorization sheets
+
+4. If authorization is found and valid for the DOS (Date of Service):
+   a. Prepare an appeal with the authorization information
+   b. Send the appeal via fax to Coastal Care (855-481-0606)
+
+5. If no authorization is found or authorization is invalid:
+   a. Check if retro authorization is possible according to SOP (Standard Operating Procedure)
+   b. If retro auth is possible, task the client for authorization approval
+
+6. If retro authorization is not possible:
+   a. For rental items:
+      - Adjust the claim
+      - Add backend rentals if future authorization is available
+   b. For purchase codes:
+      - Adjust the claim balance
+      - Write off the amount as per SOP
+
+7. If the denial is due to a plan change:
+   a. Review plan requirements
+   b. Contact the UM (Utilization Management) department of Coastal Care for clarification
+
+8. If authorization was previously not required but now is:
+   a. Document the change in requirements
+   b. Adjust the claim as per new requirements
+
+9. For partially paid claims with some codes denied:
+   a. Verify authorization for each code separately
+   b. Adjust only the denied codes if no authorization is found
+
+10. If the claim is for a date between two valid authorization periods:
+    a. Check if there's a gap in coverage
+    b. If so, adjust the claim for the gap period
+
+11. For all adjustments and write-offs:
+    a. Document actions taken in the claim notes
+    b. Update the claim status in BT
+
+12. If unsure about any step or encountering an unusual situation:
+    a. Consult with a supervisor or experienced team member
+    b. Document the consultation and decision in the claim notes
+
+This flowchart covers the main scenarios encountered in the provided claim notes while keeping the process as simple as possible for new agents to follow.

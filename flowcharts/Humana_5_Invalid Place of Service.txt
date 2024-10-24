@@ -1,0 +1,48 @@
+Here's a decision tree flowchart for handling claim denials due to invalid Place of Service (POS):
+
+1. Review claim in software (Caretend/Waystar) to verify denial reason.
+
+2. Check the billed Place of Service (POS) code in the claim form.
+
+3. Review patient documents:
+   a. Check Delivery Ticket (DT) to verify delivery address.
+   b. Review nursing notes to confirm service location.
+
+4. If delivery address matches patient's home address:
+   a. Change POS to 12 (home).
+   b. Resubmit as corrected claim electronically.
+
+5. If service was rendered in a clinic or Ambulatory Infusion Center (AIC):
+   a. Change POS to 11 (office).
+   b. Resubmit as corrected claim electronically.
+
+6. If unable to determine correct POS from available documents:
+   a. Task the claim to the client for further assistance.
+   b. Request valid POS information.
+
+7. If patient was inpatient during service dates:
+   a. Verify inpatient status by calling the insurance provider.
+   b. If confirmed, task the claim to the client for further assistance.
+
+8. Check previous claims for the same procedure code:
+   a. If found, use the same POS that was previously paid.
+   b. If not found, proceed with steps 4-7 as applicable.
+
+9. If claim was previously resubmitted but denial persists:
+   a. Call the insurance provider to inquire about the status of the corrected claim.
+   b. If not received, resubmit the corrected claim.
+
+10. If modifier SS was used unnecessarily:
+    a. Remove the SS modifier.
+    b. Resubmit the claim with the correct POS.
+
+11. If POS 65 was used for dialysis services:
+    a. Verify if the patient has End-Stage Renal Disease.
+    b. If not, change POS to appropriate code (12 for home, 11 for office/clinic).
+    c. Resubmit the corrected claim.
+
+12. If all above steps are exhausted and denial persists:
+    a. Task the claim to the client for further review.
+    b. Consider appealing the denial with supporting documentation.
+
+Remember to always check the timely filing limit (TFL) before resubmitting any corrected claims. The TFL is typically 12 months from the date of service or the date of processing, depending on the payer's policy.

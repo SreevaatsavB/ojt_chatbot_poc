@@ -1,0 +1,53 @@
+Here's a decision tree flowchart for handling claim denials due to Prior Payer Impact:
+
+1. Review claim denial in BT (Billing Tool)
+   - Verify denial reason is "23-Impact of prior payer adjudication"
+
+2. Check EOB (Explanation of Benefits)
+   - Review primary payer's payment information
+   - Compare primary payment to secondary allowed amount
+
+3. If primary paid more than secondary allowed:
+   a. Review Medicaid fee schedule (for Simply Health Care)
+   b. If service is not covered (e.g., PAP supplies):
+      - Adjust claim as Medicaid waiver
+      - Post adjustment in BT
+   c. If service is covered:
+      - Adjust claim balance
+      - Write off the difference
+
+4. If primary paid less than secondary allowed:
+   a. Check if secondary eclaim was calculated correctly
+   b. If not, send corrected claim with proper calculation
+
+5. If claim denied for duplicate service:
+   a. Check primary invoice for duplicate billing
+   b. If confirmed duplicate, adjust claim as per SOP
+
+6. If denial persists:
+   a. Prepare appeal with necessary documents (medical records, EOB)
+   b. Submit appeal via web portal (e.g., Availity)
+   c. Note appeal reference number
+
+7. After submitting appeal:
+   a. Check appeal status regularly
+   b. Allow 30-45 business days for processing
+
+8. If appeal is upheld:
+   a. Review RSM (Regional Sales Manager) update
+   b. Consider sending 2nd level appeal if advised
+
+9. If appeal is denied:
+   a. Review client update for adjustment approval
+   b. Adjust claim based on previous similar denials
+
+10. For ongoing denials:
+    a. Consult RSM for guidance
+    b. Consider policy limitations (e.g., 1 unit per month for PAP codes)
+    c. Adjust claims accordingly
+
+11. Document all actions in claim notes in BT
+
+12. If unable to resolve:
+    a. Task client for further action
+    b. Await further instructions

@@ -1,0 +1,52 @@
+Here's a decision tree flowchart for handling claims denied due to "Payment Included in Other Services":
+
+1. Review the claim denial in the billing system (BT or CGS web portal).
+   - Confirm the denial reason is "97-Pmt incld for another service".
+
+2. Check patient's enrollment status during the service dates:
+   - Use CGS web portal or Medicare portal to verify patient's status.
+   - Look for enrollment in SNF (Skilled Nursing Facility), Hospice, or Home Health Episode.
+
+3. If patient was in SNF:
+   a. Create a new service order (SO) for the discharge date.
+   b. Add a new invoice with the correct discharge date.
+   c. Adjust the original claim.
+   d. Rebill with the new SO and invoice number.
+
+4. If patient was in Hospice:
+   a. Verify the hospice enrollment dates.
+   b. Adjust the claim as necessary.
+   c. If HCPCS code is already picked up, note in the system.
+
+5. If patient was in Home Health Episode:
+   a. Review LCD Guidelines for the specific HCPCS code.
+   b. If the item is not separately payable during Home Health Episode, adjust the balance.
+   c. If payable, create a new SO and rebill.
+
+6. For purchase claims (e.g., E0141, E0165):
+   a. Create a new SO for the discharge date.
+   b. Bill with the new SO and invoice number.
+   c. Adjust off the previous date of service.
+
+7. For rental claims (e.g., E0431, E1390):
+   a. Add backend billing for the rental period.
+   b. Adjust the claim accordingly.
+
+8. If the patient is deceased:
+   a. Verify the date of death in the billing system.
+   b. Close the service order if not already done.
+   c. Adjust the claim as per SOP for deceased patients.
+
+9. If none of the above scenarios apply:
+   a. Review the claim for any other potential issues.
+   b. Contact the insurance provider for more information if needed.
+   c. Consider appealing the denial with supporting documentation.
+
+10. After taking appropriate action:
+    a. Post the adjustment in the billing system.
+    b. Update the claim notes with actions taken.
+    c. If applicable, resubmit the adjusted claim.
+
+11. If unable to resolve:
+    a. Escalate to a supervisor or specialized team.
+    b. Document all actions taken in the claim notes.

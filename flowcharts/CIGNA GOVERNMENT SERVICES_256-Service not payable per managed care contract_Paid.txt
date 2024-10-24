@@ -1,0 +1,52 @@
+Based on the provided actions for claims denied due to "Claim recently submitted," here's a decision tree flowchart for new agents to follow:
+
+1. Verify claim submission status in the claims management system.
+
+2. If claim is not found in the system:
+   a. Submit the claim to the payer
+   b. Document the submission details and date
+
+3. If claim is found in the system:
+   a. Check the submission date
+   b. If submitted within the last 30 days, proceed to step 4
+   c. If submitted more than 30 days ago, go to step 7
+
+4. Follow up with the payer:
+   a. Contact payer's customer service
+   b. Inquire about the claim status
+   c. Document the conversation and any information received
+
+5. If payer confirms claim is received and processing:
+   a. Note the expected processing time
+   b. Schedule a follow-up based on the payer's timeline
+
+6. If payer has no record of the claim:
+   a. Verify claim details in the claims management system
+   b. Resubmit the claim if necessary
+   c. Document the resubmission
+
+7. Review claim details:
+   a. Check for accuracy and completeness of information
+   b. Verify patient demographics, insurance information, and service details
+   c. Ensure all required fields are filled correctly
+
+8. If any discrepancies are found:
+   a. Correct the information in the claims management system
+   b. Resubmit the corrected claim
+   c. Document the changes and resubmission
+
+9. If no discrepancies are found:
+   a. Monitor the claim status regularly
+   b. Set a reminder to check status every 7-10 days
+
+10. If claim remains unprocessed after payer's stated timeline:
+    a. Escalate to a supervisor or specialized team
+    b. Consider filing an appeal or complaint with the payer
+    c. Document all actions taken and continue to monitor
+
+11. Once claim is processed:
+    a. Review the outcome
+    b. If paid, close the case
+    c. If denied for a different reason, start a new workflow based on the new denial reason
+
+This flowchart provides a structured approach for new agents to handle claims denied due to recent submission, covering various scenarios while keeping the process simple and easy to follow.

@@ -1,0 +1,10 @@
+Timestamp,Payor Name,Denial Code,Denial Reason,Feedback
+2024-10-24 12:13:09,7899 HEALTHCARE LA IPA MEDI-CAL,16,EOB,helpful
+2024-10-24 12:13:24,7899 HEALTHCARE LA IPA MEDI-CAL,16,Missing Information,not helpful
+2024-10-24 12:13:45,Humana,16,Payment Status,helpful
+2024-10-24 12:14:11,Humana,16,Paid,not helpful
+2024-10-24 12:14:25,Humana,16,Payment Status,helpful
+2024-10-24 12:33:53,HumanaAll,CO18,Paid,not helpful
+2024-10-24 12:35:52,HumanaAll,CO18,Paid,not helpful
+2024-10-24 13:33:14,AETNA,16-Lacks adjudication info,Claim Status,helpful
+2024-10-24 14:47:56,SIMPLY HEALTH CARE,23-Impact of prior payer adjudication,Service Frequency,not helpful

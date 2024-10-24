@@ -1,0 +1,48 @@
+Based on the provided claim denial scenarios, here's a decision tree flowchart for new agents to handle claim denials:
+
+1. Review claim status in Payspan EOB
+   - If claim is paid but not posted in Caretend:
+     a. Calculate paid amount
+     b. If balance is less than $6.00:
+        - Post payment and adjust balance in Caretend
+     c. If balance is $6.00 or more:
+        - Investigate discrepancy and take appropriate action
+
+2. If claim is denied:
+   a. Check denial reason
+   
+   b. If denied for medical records (MRE):
+      - Submit appeal with medical records
+      - If no response:
+        - Forward appeal to Quantum for review
+        - Contact Quantum for appeal status
+        - If AOR form is required:
+          - Request AOR form from patient
+          - Inform client about AOR requirement
+
+   c. If denied due to inpatient status:
+      - Call insurance to confirm denial reason and inpatient dates
+      - Adjust claim as per SOP for inpatient stay
+      - Post adjustment in Caretend
+
+   d. If denied due to modifier issues:
+      - Submit corrected claim with proper modifiers
+      - Follow up on corrected claim status
+
+3. For all denials:
+   - Document all actions taken in claim notes
+   - Include relevant details such as:
+     - Date of service (DOS)
+     - HCPCS codes
+     - Insurance carrier name
+     - Claim number
+     - Call reference numbers (if applicable)
+
+4. If denial persists after initial actions:
+   - Escalate to supervisor or specialized team for further review
+
+5. Regularly follow up on pending appeals or corrected claims
+
+6. Update client on claim status and any required actions from their end
+
+This flowchart covers the main scenarios presented in the given examples while providing a simple guide for new agents to follow when addressing claim denials.

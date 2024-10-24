@@ -1,0 +1,56 @@
+Here's a decision tree flowchart for handling claim denials due to patient being in a Skilled Nursing Facility (SNF):
+
+1. Review the claim denial in BT (Billing Tool)
+   - Verify the denial reason (CO-96, CO-97, or CO-109 related to SNF stay)
+
+2. Check CGS portal to verify patient's SNF enrollment
+   - Confirm SNF stay dates and NPI of the facility
+
+3. If claim was paid and recouped:
+   - Proceed to step 4
+   If claim was denied outright:
+   - Skip to step 4
+
+4. Verify patient's current status
+   - If patient is deceased:
+     - Check if item has been picked up
+     - Adjust claim without adding backend rental
+     - Write off the claim as per SOP
+   - If patient is alive:
+     - Continue to step 5
+
+5. Check order status in BT
+   - If order is closed:
+     - Adjust claim without adding backend rental
+   - If order is still active:
+     - Continue to step 6
+
+6. Determine appropriate action based on SNF discharge date:
+   - If SNF stay covers entire DOS:
+     - Adjust claim and add backend rental
+     - Write off the claim
+   - If patient was discharged from SNF before or on DOS:
+     - Create new invoice with discharge date
+     - Resubmit claim for post-discharge period
+     - Adjust original claim
+
+7. For active orders with future dates:
+   - Add backend rental to account for denied period
+
+8. If patient's address has changed:
+   - Update address in BT
+   - Resubmit claim with correct information
+
+9. If claim denial is due to incorrect jurisdiction:
+   - Change address and resubmit to correct jurisdiction
+   - Create case with Medicare to update correct address
+
+10. If additional information is needed:
+    - Contact customer service or relevant department
+
+11. Document all actions taken in claim notes
+
+12. If unable to resolve or unsure:
+    - Escalate to supervisor or experienced team member
+
+This flowchart covers the main scenarios encountered in the provided examples while keeping the process as simple as possible for new agents. It emphasizes the use of BT and CGS portal for verification and provides clear steps for different situations that may arise.

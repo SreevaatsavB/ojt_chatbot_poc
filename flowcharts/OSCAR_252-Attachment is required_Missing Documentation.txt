@@ -1,0 +1,31 @@
+Based on the provided actions, here's a decision tree for handling claim denials due to missing documentation for OSCAR:
+
+1. Submit claim to OSCAR.
+2. Check claim status in BDM (Billing and Document Management system) or OSCAR web portal.
+3. If claim is denied due to missing medical records:
+   a. Verify available documents in BDM:
+      - RX (Prescription)
+      - CMN (Certificate of Medical Necessity)
+      - Progress notes
+      - Sleep study
+      - DT (Detailed Written Order)
+      - Compliance report (if applicable)
+   b. If all required documents are available in BDM:
+      - Prepare appeal with all available documents
+      - Send appeal via fax to 888-977-2062 or submit through OSCAR web portal
+      - Upload appeal documents to BDM
+   c. If documents are missing:
+      - Task client for missing medical documents
+      - Once received, upload documents to BDM
+      - Prepare and send appeal as in step 3b
+4. If claim was processed under incorrect policy:
+   - Update subscriber information
+   - Resubmit claim as new under correct subscriber
+5. Set follow-up for 35 days from denial date (Time Frame Limit for OSCAR appeals)
+6. If denial persists:
+   - Call OSCAR customer service at (855) 672-2788 to verify denial reason
+   - If additional information is required, repeat steps 3b or 3c as necessary
+7. If appeal is unsuccessful:
+   - Consider escalation to supervisor or specialized appeals team
+
+Note: Always ensure to upload all relevant documents and appeal information to BDM for future reference.
