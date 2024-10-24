@@ -187,13 +187,13 @@ else:
         reset_all_states()
 
     # Add a section to view logs if needed (can be commented out in production)
-    if st.checkbox('Show Logs'):
-        st.markdown("### User Selection Logs")
-        if os.path.exists('user_selections.csv'):
-            selections_df = pd.read_csv('user_selections.csv')
-            st.dataframe(selections_df)
+    # if st.checkbox('Show Logs'):
+    #     st.markdown("### User Selection Logs")
+    #     if os.path.exists('user_selections.csv'):
+    #         selections_df = pd.read_csv('user_selections.csv')
+    #         st.dataframe(selections_df)
         
-        st.markdown("### Feedback Logs")
-        if os.path.exists('feedback_log.csv'):
-            feedback_df = pd.read_csv('feedback_log.csv')
-            st.dataframe(feedback_df)
+    #     st.markdown("### Feedback Logs")
+    #     if os.path.exists('feedback_log.csv'):
+    #         feedback_df = pd.read_csv('feedback_log.csv')
+    #         st.dataframe(feedback_df)
