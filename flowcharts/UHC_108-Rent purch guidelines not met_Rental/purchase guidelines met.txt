@@ -1,0 +1,43 @@
+Claim denied due to rental/purchase guidelines met:
+
+1. Review claim in BT (Billing Tool) to check claim status and denial reason.
+
+2. Check rental history in BT to verify the number of rental payments received.
+
+3. If less than 10 rental payments received:
+   a. Call UHC to inquire about the discrepancy.
+   b. Request reprocessing of the claim.
+   c. Note the ticket number and wait for 10-20 days for reprocessing.
+
+4. If 10 or more rental payments received:
+   a. Review UHC guidelines to confirm their rental payment policy.
+   b. Verify the purchase price of the equipment.
+   c. Calculate total amount paid by UHC for rentals.
+
+5. If purchase price has been met:
+   a. Adjust the claim balance in BT.
+   b. Convert the item to CTP (Converted to Purchase) in BT.
+
+6. If purchase price has not been met, but 10 rentals paid:
+   a. Adjust the claim for the paid rental period.
+   b. Update the CPT code to avoid future denials.
+
+7. For future dates of service beyond the 10th month:
+   a. Adjust claims in BT to prevent further submissions.
+   b. Mark the item as CTP in BT.
+
+8. If there's a discrepancy between UHC's payment and previous rental amounts:
+   a. Call UHC to clarify the payment discrepancy.
+   b. Request reprocessing if necessary.
+
+9. If reprocessing is requested:
+   a. Note the ticket number provided by UHC.
+   b. Follow up after 15-20 business days if no update received.
+
+10. If claim is still denied after reprocessing:
+    a. Review the denial reason again.
+    b. If appropriate, consider filing an appeal with supporting documentation.
+
+11. Update the patient's file in BT with all actions taken and outcomes.
+
+12. If needed, update policy information in BT to ensure correct primary/secondary insurance details.

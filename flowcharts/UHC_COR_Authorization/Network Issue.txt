@@ -1,0 +1,47 @@
+Claim denied due to Authorization/Network Issue
+
+1. Review claim status in Billing Tool (BT)
+   - Check claim submission date and denial status
+
+2. Verify network status
+   - Call insurance provider to confirm if provider is in-network
+   - If in-network, proceed to step 3
+   - If out-of-network, go to step 8
+
+3. Check for authorization
+   - Review insurance letter for any authorization requirements
+   - If authorization is required, proceed to step 4
+   - If no authorization required, go to step 6
+
+4. Obtain necessary authorization
+   - Contact client or provider to get required authorization
+   - If authorization obtained, proceed to step 5
+   - If unable to obtain authorization, go to step 8
+
+5. Submit authorization to insurance
+   - Send authorization through appropriate channel (online portal, fax, etc.)
+   - Allow time for processing (typically 30 days)
+
+6. Request claim reprocessing
+   - Contact insurance to request claim reprocessing
+   - Note the name of the representative and reprocessing details
+
+7. Follow up on reprocessing
+   - Check claim status after 30 days
+   - If resolved, claim process complete
+   - If still denied, proceed to step 8
+
+8. Prepare and submit appeal
+   - Check BT patient BDM for available documentation (RX, Dr's order, CMN, progress notes)
+   - Gather all relevant medical records and documentation
+   - Draft appeal letter addressing the specific denial reason
+   - Submit appeal through appropriate channel (online portal, mail, fax)
+
+9. Monitor appeal status
+   - Check status regularly in BT or with insurance provider
+   - If appeal approved, claim process complete
+   - If appeal denied, proceed to step 10
+
+10. Escalate to management
+    - Provide all claim details and actions taken
+    - Management to decide on further action (e.g., secondary appeal, write-off)

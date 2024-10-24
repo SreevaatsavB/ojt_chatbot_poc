@@ -1,0 +1,20 @@
+Claim denied due to Network/Provider Issues:
+
+1. Review claim status in billing software and insurance portal.
+2. Verify exact denial reason (e.g., non-contracted provider, services not provided by network providers).
+3. Check provider's network status with insurance:
+   a. If in-network, proceed to step 4.
+   b. If out-of-network, skip to step 7.
+4. Verify provider's address in insurance records:
+   a. If address is correct, proceed to step 5.
+   b. If address is incorrect, go to step 6.
+5. Submit medical records (F2F, CMN, Sleep study, DT, Auth sheet) via insurance portal.
+6. Escalate issue to client to update provider address with insurance.
+7. Allow time for insurance to process address change (if applicable).
+8. Attempt claim reprocessing:
+   a. If accepted, monitor for payment.
+   b. If not accepted, proceed to step 9.
+9. Submit appeal with available medical records via insurance portal.
+10. Monitor appeal status:
+    a. If approved, claim should be paid.
+    b. If denied, escalate to management for further action.

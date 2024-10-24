@@ -1,0 +1,48 @@
+Claim denied for payment already made for same/similar procedure within set time frame:
+
+1. Review claim in BT (Billing Tool) to check claim status and processing details.
+
+2. Verify EOB in insurance portal to confirm denial reason.
+
+3. Review billing history to check for duplicate billing or similar codes within allowed date range.
+
+4. Contact payer to clarify denial reason and verify conflict with 31-day billing range.
+
+5. Discuss with RSM (Regional Sales Manager) to determine next steps.
+
+6. Submit reconsideration/1st level appeal via Availity or insurance portal with:
+   - Available documents
+   - Valid comments explaining the issue
+   - Medical records
+   - Medicare primary EOB (if applicable)
+   - Detailed explanation
+
+7. Check reconsideration/appeal status in Availity or insurance portal after 2-4 weeks.
+
+8. If reconsideration/appeal is upheld:
+   a. Review correspondence letter to understand decision.
+   b. Forward issue to client with upheld documents.
+   c. Seek client's guidance on next steps.
+
+9. If client instructs, submit 2nd level appeal via Availity or insurance portal with:
+   - Medical records
+   - Medicare primary EOB
+   - Detailed explanation
+
+10. Verify 2nd level appeal status after 2-4 weeks.
+
+11. If 2nd level appeal is upheld:
+    a. Forward to client with appeal upheld letter.
+    b. Request client's decision on further action.
+
+12. If client instructs to adjust claim:
+    a. Write off the balance as per client's response.
+    b. Adjust the claim in BT.
+
+13. If claim was processed as primary without primary insurance EOB:
+    a. Call insurance to clarify claim processing.
+    b. Submit corrected claim via BT to recoup payment and get Medicare co-insurance paid.
+
+14. If all appeals are exhausted and no further action is possible:
+    a. Task client for adjustment approval.
+    b. Adjust the claim as per client's instructions.

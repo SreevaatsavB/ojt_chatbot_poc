@@ -1,0 +1,57 @@
+Claim denied due to rental/purchase guidelines not met:
+
+1. Review claim status in Billing Tool (BT) to confirm denial reason.
+
+2. Check rental payment history in BT:
+   a. If less than 10 rental payments received, proceed to step 3.
+   b. If 10 or more rental payments received, go to step 7.
+
+3. Call UHC insurance:
+   a. Verify claim status and denial reason.
+   b. Inquire about previous billings by other providers.
+   c. Ask for purchase price information.
+
+4. Request claim reprocessing:
+   a. If denial is incorrect, ask representative to reprocess the claim.
+   b. Note the reference number and expected processing time.
+
+5. Allow time for reprocessing (usually 7-45 business days).
+
+6. Check claim status after reprocessing time:
+   a. If approved, process payment.
+   b. If still denied, return to step 3 or proceed to step 7.
+
+7. Verify UHC guidelines for the specific HCPCS code:
+   a. Confirm rental payment limit (usually 10 months).
+   b. Check if item should be converted to purchase.
+
+8. If rental limit reached or purchase price met:
+   a. Adjust the claim in BT.
+   b. Convert item to purchase (CTP) in BT.
+   c. Write off any remaining balance.
+
+9. If rental payments exceed UHC guidelines:
+   a. Adjust the claim in BT.
+   b. Convert item to purchase (CTP) in BT.
+
+10. For UMR plans:
+    a. Check if it's the 4th month rental.
+    b. If yes, convert to purchase and bill as purchase claim.
+
+11. If purchase price information is unclear:
+    a. Call UHC to verify purchase price.
+    b. Compare received payments with purchase price.
+
+12. If claim is for secondary insurance:
+    a. Verify primary insurance payments.
+    b. Adjust claim based on primary payment and UHC guidelines.
+
+13. If denial persists after reprocessing:
+    a. Submit an appeal with supporting documentation.
+    b. Include medical records, CMN, and other relevant documents.
+
+14. Monitor appeal status:
+    a. Follow up with UHC if no response within 30-45 days.
+    b. If appeal is denied, consider next steps (e.g., further appeal, patient billing).
+
+15. Document all actions taken in the claim notes in BT.
