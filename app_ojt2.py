@@ -115,7 +115,7 @@ def on_payor_change():
     st.session_state.show_flowchart = False
     st.session_state.feedback_given = False
 
-st.title('OJT flowchart viewer')
+st.title('Virtual Denial Coach')
 
 flowcharts = get_saved_flowcharts()
 
@@ -147,7 +147,7 @@ else:
     st.session_state.current_selections['reason'] = selected_denial_reason
 
     # View Flowchart button
-    if st.button('View Flowchart', on_click=on_view_flowchart_click):
+    if st.button('View Checklist', on_click=on_view_flowchart_click):
         pass
 
 
@@ -161,11 +161,11 @@ else:
         if selected_flowchart:
             # Display the flowchart
             flowchart_content = read_flowchart(selected_flowchart['filename'])
-            st.markdown("## Flowchart")
+            st.markdown("## Checklist")
             st.markdown(flowchart_content)
             
             # Feedback section
-            st.markdown("### Was this flowchart helpful?")
+            st.markdown("### Was this Checklist helpful?")
             
             # Only show feedback buttons if feedback hasn't been given
             if not st.session_state.feedback_given:
@@ -183,17 +183,17 @@ else:
                 st.info('Thank you for your feedback!')
 
     # Add Get New Flowchart button at the top
-    if st.button('🔄 Get New Flowchart', type='primary'):
+    if st.button('🔄 Get New Checklist', type='primary'):
         reset_all_states()
 
     # Add a section to view logs if needed (can be commented out in production)
-    # if st.checkbox('Show Logs'):
-    #     st.markdown("### User Selection Logs")
-    #     if os.path.exists('user_selections.csv'):
-    #         selections_df = pd.read_csv('user_selections.csv')
-    #         st.dataframe(selections_df)
+    if st.checkbox('Show Logs'):
+        st.markdown("### User Selection Logs")
+        if os.path.exists('user_selections.csv'):
+            selections_df = pd.read_csv('user_selections.csv')
+            st.dataframe(selections_df)
         
-    #     st.markdown("### Feedback Logs")
-    #     if os.path.exists('feedback_log.csv'):
-    #         feedback_df = pd.read_csv('feedback_log.csv')
-    #         st.dataframe(feedback_df)
+        st.markdown("### Feedback Logs")
+        if os.path.exists('feedback_log.csv'):
+            feedback_df = pd.read_csv('feedback_log.csv')
+            st.dataframe(feedback_df)
