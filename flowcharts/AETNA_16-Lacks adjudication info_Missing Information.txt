@@ -1,0 +1,51 @@
+Claim denied due to Missing Information:
+
+1. Review claim in Billing Tool (BT) to verify submission status and denial reason.
+
+2. Check patient's status:
+   a. If patient is in Inpatient/SNF status:
+      - Call Aetna to confirm inpatient dates
+      - Adjust claim as per SOP
+      - Add backend billing for rental items
+      - Create new Sales Order (SO) for purchase items on discharge date
+   b. If patient is not in Inpatient/SNF status, proceed to step 3
+
+3. Verify diagnosis code:
+   a. If incorrect diagnosis code:
+      - Check patient's medical records in BT for correct diagnosis
+      - If found, submit corrected claim with updated diagnosis code
+      - If not found, task client for alternative diagnosis code
+   b. If diagnosis code is correct, proceed to step 4
+
+4. Check for missing modifiers:
+   a. If modifier is missing:
+      - Add appropriate modifier (e.g., KX for medical necessity)
+      - Resubmit corrected claim
+   b. If modifiers are correct, proceed to step 5
+
+5. Verify Coordination of Benefits (COB) information:
+   a. If COB is outdated:
+      - Request patient to update COB with Aetna
+      - If patient doesn't respond, transfer balance to patient
+   b. If COB is up-to-date, proceed to step 6
+
+6. Check for missing medical records:
+   a. If medical records are missing:
+      - Gather necessary documents (e.g., progress notes, written orders)
+      - Submit appeal with required documentation
+   b. If medical records are complete, proceed to step 7
+
+7. Verify procedure codes:
+   a. If procedure code is invalid:
+      - Check for correct procedure code in medical records
+      - Submit corrected claim with proper procedure code
+   b. If procedure code is valid, proceed to step 8
+
+8. If all above steps are completed and claim is still denied:
+   - Call Aetna for further clarification
+   - Follow Aetna's instructions for resolution
+   - If no resolution, consider filing a formal appeal
+
+9. Document all actions taken in the claim notes in BT.
+
+10. Monitor claim status and follow up as needed.
